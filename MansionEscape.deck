@@ -1,6 +1,6 @@
 {deck}
 version:1
-card:2
+card:4
 size:[512,342]
 name:"Mansion Escape"
 author:"Nick Parkman"
@@ -23,4 +23,12 @@ field1:{"type":"field","size":[209,67],"pos":[134,92],"value":"Bedroom\nBookshel
 {card:Hallway1}
 {widgets}
 field1:{"type":"field","size":[189,96],"pos":[144,102],"value":"Hallway\nBedroom Door\nSouth\nNorth"}
+
+{card:South Hallway}
+{widgets}
+field1:{"type":"field","size":[262,142],"pos":[121,85],"value":"Hallway South Turn/Intersection\nRooms south of Bedroom\nGo down turn\ncontinue down hallway if intersection\nObstacle? Locked Doors? Numbered Keys?"}
+
+{card:Inventory}
+{widgets}
+field1:{"type":"field","size":[265,150],"pos":[99,70],"value":"Inventory: \nUpdate Items in Inventory to unlock more ways to go?\nOvercome Obstacles Tools\nUnlock doors of the number of the key (1, 2, 3)\nHow to check inventory from other slides and update inventory?"}
 
