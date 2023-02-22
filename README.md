@@ -1,3 +1,3 @@
 #Text Based Adventure
 
-![Screenshot](Game Screenshot.png)
+![Screenshot](Screenshot.png)
