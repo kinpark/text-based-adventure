@@ -1,2 +1,3 @@
+#Text Based Adventure
 
-Game Screenshot.png
+![Screenshot](Game Screenshot.png)
