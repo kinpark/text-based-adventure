@@ -1,6 +1,6 @@
 {deck}
 version:1
-card:4
+card:0
 size:[512,342]
 name:"Mansion Escape"
 author:"Nick Parkman"
@@ -18,17 +18,345 @@ end
 
 {card:Bedroom}
 {widgets}
-field1:{"type":"field","size":[209,67],"pos":[134,92],"value":"Bedroom\nBookshelf\nDoor to Hallway"}
+field1:{"type":"field","size":[209,67],"pos":[134,92],"value":"Location: Bedroom\nBookshelf?\nWindow\nDoor to Hallway"}
+button1:{"type":"button","size":[102,46],"pos":[56,179],"script":"Bedroom.0","text":"Window"}
+button2:{"type":"button","size":[135,50],"pos":[219,180],"script":"Bedroom.1","text":"Hallway"}
+
+{script:Bedroom.0}
+on click do
+  go["Bedroom Window" "SlideDown"]
+end
+{end}
+
+{script:Bedroom.1}
+on click do
+  go["Hallway1" "SlideLeft"]
+end
+{end}
 
 {card:Hallway1}
 {widgets}
-field1:{"type":"field","size":[189,96],"pos":[144,102],"value":"Hallway\nBedroom Door\nSouth\nNorth"}
+field1:{"type":"field","size":[189,96],"pos":[144,102],"value":"Location: Hallway\nBedroom Door\nSouth Hallway\nNorth Hallway"}
+button1:{"type":"button","size":[92,28],"pos":[53,223],"script":"Hallway1.0","text":"Bedroom"}
+button2:{"type":"button","size":[86,29],"pos":[195,224],"script":"Hallway1.1","text":"South"}
+button3:{"type":"button","size":[84,31],"pos":[318,218],"script":"Hallway1.2","text":"North"}
+
+{script:Hallway1.0}
+on click do
+  go["Bedroom" "SlideRight"]
+end
+{end}
+
+{script:Hallway1.1}
+on click do
+  go["South Hallway" "SlideUp"]
+end
+{end}
+
+{script:Hallway1.2}
+on click do
+  go["North Hallway" "SlideDown"]
+end
+{end}
 
 {card:South Hallway}
 {widgets}
-field1:{"type":"field","size":[262,142],"pos":[121,85],"value":"Hallway South Turn/Intersection\nRooms south of Bedroom\nGo down turn\ncontinue down hallway if intersection\nObstacle? Locked Doors? Numbered Keys?"}
+field1:{"type":"field","size":[262,86],"pos":[121,85],"value":"Location: Bedroom Hallway South\nThere are three doors down the hallway before it turns east. \nRoom 1\nRoom 2\nRoom 3\nEast Hallway\nNorth Hallway"}
+button1:{"type":"button","size":[89,25],"pos":[28,192],"script":"South Hallway.0","text":"Room 1"}
+button2:{"type":"button","size":[87,23],"pos":[133,192],"script":"South Hallway.1","text":"Room 2"}
+button3:{"type":"button","size":[82,22],"pos":[238,191],"script":"South Hallway.2","text":"Room 3"}
+button4:{"type":"button","size":[92,33],"pos":[27,226],"script":"South Hallway.3","text":"East"}
+button5:{"type":"button","size":[91,35],"pos":[135,223],"script":"South Hallway.4","text":"North"}
+
+{script:South Hallway.0}
+on click do
+  go["South Room 1" "SlideLeft"]
+end
+{end}
+
+{script:South Hallway.1}
+on click do
+  go["South Room 2" "SlideRight"]
+end
+{end}
+
+{script:South Hallway.2}
+on click do
+  go["South Room 3" "SlideUp"]
+end
+{end}
+
+{script:South Hallway.3}
+on click do
+  go["East Hallway" "SlideLeft"]
+end
+{end}
+
+{script:South Hallway.4}
+on click do
+  go["Hallway1" "SlideDown"]
+end
+{end}
 
 {card:Inventory}
 {widgets}
 field1:{"type":"field","size":[265,150],"pos":[99,70],"value":"Inventory: \nUpdate Items in Inventory to unlock more ways to go?\nOvercome Obstacles Tools\nUnlock doors of the number of the key (1, 2, 3)\nHow to check inventory from other slides and update inventory?"}
+
+{card:Bedroom Window}
+{widgets}
+field1:{"type":"field","size":[165,77],"pos":[141,104],"value":"Location: Bedroom Window\nThe Window looks out to a Hedge Maze in the backyard of the mansion.\nThe Window doesn't open. "}
+Back Up:{"type":"button","size":[133,44],"pos":[149,201],"script":"Bedroom Window.0","text":"Back Up"}
+
+{script:Bedroom Window.0}
+on click do
+  go["Bedroom" "SlideUp"]
+end
+{end}
+
+{card:South Room 1}
+{widgets}
+field1:{"type":"field","size":[185,58],"pos":[149,64],"value":"Location: Small Bathroom\nCheck Bathtub?\nLeave"}
+button1:{"type":"button","size":[102,37],"pos":[63,155],"script":"South Room 1.0","text":"Bathtub"}
+button2:{"type":"button","size":[92,36],"pos":[226,161],"script":"South Room 1.1","text":"Leave"}
+
+{script:South Room 1.0}
+on click do
+  go["Bathtub" "SlideLeft"]
+end
+{end}
+
+{script:South Room 1.1}
+on click do
+  go["South Hallway" "SlideRight"]
+end
+{end}
+
+{card:Bathtub}
+{widgets}
+field1:{"type":"field","size":[160,81],"pos":[144,76],"value":"Obstacle Item found. Add to Inventory.\nBack Up?"}
+button1:{"type":"button","size":[132,36],"pos":[145,183],"script":"Bathtub.0","text":"Back"}
+
+{script:Bathtub.0}
+on click do
+  go["South Room 1" "BoxIn"]
+end
+{end}
+
+{card:North Hallway}
+{widgets}
+field1:{"type":"field","size":[155,81],"pos":[145,74],"value":"Location: North Hallway\nObstacle!  Sharp Objects on floor, need item to pass. (figure out how to add checks later)\nElevator\nDoor at the end of the hallway.\nSouth Hallway"}
+button1:{"type":"button","size":[101,34],"pos":[74,169],"script":"North Hallway.0","text":"Elavator"}
+button2:{"type":"button","size":[109,32],"pos":[204,168],"script":"North Hallway.1","text":"Door"}
+button3:{"type":"button","size":[86,23],"pos":[336,171],"script":"North Hallway.2","text":"South"}
+
+{script:North Hallway.0}
+on click do
+  go["Elavator" "SlideRight"]
+end
+{end}
+
+{script:North Hallway.1}
+on click do
+  go["North Room" "SlideDown"]
+end
+{end}
+
+{script:North Hallway.2}
+on click do
+  go["Hallway1" "SlideUp"]
+end
+{end}
+
+{card:South Room 2}
+{widgets}
+field1:{"type":"field","size":[147,77],"pos":[161,68],"value":"Location: South Room 2\nAnother Bedroom, looks disheveled. \nCheck Window?\nLeave"}
+button1:{"type":"button","size":[93,35],"pos":[72,161],"script":"South Room 2.0","text":"Window"}
+button2:{"type":"button","size":[105,35],"pos":[203,162],"script":"South Room 2.1","text":"Leave"}
+
+{script:South Room 2.0}
+on click do
+  go["South Room 2 Window" "SlideRight"]
+end
+{end}
+
+{script:South Room 2.1}
+on click do
+  go["South Hallway" "SlideLeft"]
+end
+{end}
+
+{card:South Room 2 Window}
+{widgets}
+field1:{"type":"field","size":[170,72],"pos":[144,78],"value":"The Window looks out over the large garage on the West side of the house.\nThe Window won't Open\nBack Up?"}
+button1:{"type":"button","size":[86,29],"pos":[162,169],"script":"South Room 2 Window.0","text":"Back"}
+
+{script:South Room 2 Window.0}
+on click do
+  go["South Room 2" "SlideLeft"]
+end
+{end}
+
+{card:Elavator}
+{widgets}
+field1:{"type":"field","size":[157,62],"pos":[146,77],"value":"Elavator is not working.\nleave?"}
+button1:{"type":"button","size":[92,34],"pos":[177,148],"script":"Elavator.0","text":"Leave"}
+
+{script:Elavator.0}
+on click do
+  go["North Hallway" "SlideLeft"]
+end
+{end}
+
+{card:North Room}
+{widgets}
+field1:{"type":"field","size":[171,77],"pos":[147,67],"value":"Location: North Room\nObstacle? Something to Get an Item to add to inventory.\nLeave"}
+button1:{"type":"button","size":[92,32],"pos":[188,163],"script":"North Room.0","text":"Leave"}
+
+{script:North Room.0}
+on click do
+  go["North Hallway" "SlideUp"]
+end
+{end}
+
+{card:South Room 3}
+{widgets}
+field1:{"type":"field","size":[146,74],"pos":[167,90],"value":"Location: Room 3\nObstacle! Door is locked, need a key to unlock. To be added later\nBack Up?"}
+button1:{"type":"button","size":[92,28],"pos":[186,173],"script":"South Room 3.0","text":"Back"}
+
+{script:South Room 3.0}
+on click do
+  go["South Hallway" "SlideDown"]
+end
+{end}
+
+{card:East Hallway}
+{widgets}
+field1:{"type":"field","size":[159,74],"pos":[163,85],"value":"Location: East Hallway\n2 rooms along this stretch of hallway. With Windows looking out front, and stairs leading downward at the end of the hallway."}
+button1:{"type":"button","size":[76,24],"pos":[63,176],"script":"East Hallway.0","text":"Room 1"}
+button2:{"type":"button","size":[75,25],"pos":[162,177],"script":"East Hallway.1","text":"Room 2"}
+button3:{"type":"button","size":[75,20],"pos":[273,181],"script":"East Hallway.2","text":"Windows"}
+button4:{"type":"button","size":[91,31],"pos":[132,212],"script":"East Hallway.3","text":"Stairs"}
+button5:{"type":"button","size":[91,25],"pos":[271,218],"script":"South Room 1.1","text":"West"}
+
+{script:East Hallway.0}
+on click do
+  go["East Room 1" "SlideDown"]
+end
+{end}
+
+{script:East Hallway.1}
+on click do
+  go["East Room 2" "SlideDown"]
+end
+{end}
+
+{script:East Hallway.2}
+on click do
+  go["East Windows" "SlideUp"]
+end
+{end}
+
+{script:East Hallway.3}
+on click do
+  go["Stairs" "SlideLeft"]
+end
+{end}
+
+{card:East Room 2}
+{widgets}
+field1:{"type":"field","size":[170,85],"pos":[161,80],"value":"Location: East Room 2\nThis Door is locked (to be added)\nBack Up?"}
+button1:{"type":"button","size":[93,32],"pos":[167,175],"script":"East Room 2.0","text":"Back"}
+
+{script:East Room 2.0}
+on click do
+  go["East Hallway" "BoxIn"]
+end
+{end}
+
+{card:East Room 1}
+{widgets}
+field1:{"type":"field","size":[189,73],"pos":[136,73],"value":"Location: East Room 1\nThis appears to be a laundry room\nSearch the cabinents?"}
+button1:{"type":"button","size":[102,32],"pos":[101,173],"script":"East Room 1.0","text":"Search"}
+button2:{"type":"button","size":[108,36],"pos":[225,170],"script":"East Room 1.1","text":"Leave"}
+
+{script:East Room 1.0}
+on click do
+  go["East Room 1 Cabinents" "BoxIn"]
+end
+{end}
+
+{script:East Room 1.1}
+on click do
+  go["East Hallway" "SlideUp"]
+end
+{end}
+
+{card:East Room 1 Cabinents}
+{widgets}
+field1:{"type":"field","size":[144,102],"pos":[156,70],"value":"Object found and added to inventory!\n(feature to be added)\nBack Up?"}
+button1:{"type":"button","size":[91,33],"pos":[176,186],"script":"East Room 1 Cabinents.0","text":"Back"}
+
+{script:East Room 1 Cabinents.0}
+on click do
+  go["East Room 1" "BoxIn"]
+end
+{end}
+
+{card:Stairs}
+{widgets}
+field1:{"type":"field","size":[168,78],"pos":[157,92],"value":"Obstacle! Something preventing going downstairs! (To be added)\n2nd floor?\n1st floor?"}
+button1:{"type":"button","size":[73,27],"pos":[108,188],"script":"Stairs.0","text":"2nd Floor"}
+button2:{"type":"button","size":[86,31],"pos":[224,181],"script":"Stairs.1","text":"1st Floor"}
+
+{script:Stairs.0}
+on click do
+  go["East Hallway" "SlideRight"]
+end
+{end}
+
+{script:Stairs.1}
+on click do
+  go["1st Floor Entry Hall" "SlideLeft"]
+end
+{end}
+
+{card:East Windows}
+{widgets}
+field1:{"type":"field","size":[181,91],"pos":[153,78],"value":"Looks over the round about of a driveway leading to the front door. It's a nice view. The Windows don't open."}
+button1:{"type":"button","size":[137,30],"pos":[172,184],"script":"East Windows.0","text":"Back Up"}
+
+{script:East Windows.0}
+on click do
+  go["East Hallway" "SlideDown"]
+end
+{end}
+
+{card:1st Floor Entry Hall}
+{widgets}
+field1:{"type":"field","size":[151,83],"pos":[161,89],"value":"Location: 1st Floor Entry Hall\nStairs: 2nd Floor East Wing, 2nd Floor West Wing\n1st Floor: Front Door(To be closed), East Archway, West Archway, North Archway.\n(Directions to be added / expanded upon)"}
+button1:{"type":"button","size":[136,32],"pos":[166,184],"script":"1st Floor Entry Hall.0","text":"Front Door"}
+button2:{"type":"button","size":[140,34],"pos":[103,232],"script":"1st Floor Entry Hall.1","text":"2nd Floor East Wing"}
+
+{script:1st Floor Entry Hall.0}
+on click do
+  go["Front" "SlideUp"]
+end
+{end}
+
+{script:1st Floor Entry Hall.1}
+on click do
+  go["Stairs" "SlideRight"]
+end
+{end}
+
+{card:Front}
+{widgets}
+field1:{"type":"field","size":[156,47],"pos":[150,75],"value":"Escaped! This door is to be blocked in future updates!"}
+button1:{"type":"button","size":[152,35],"pos":[154,146],"script":"Front.0","text":"Replay?"}
+
+{script:Front.0}
+on click do
+  go["First" "BoxIn"]
+end
+{end}
 
