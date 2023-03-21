@@ -1,3 +1,3 @@
 #Text Based Adventure Beta
 
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot2.png)
