@@ -1,0 +1,558 @@
+{deck}
+version:1
+card:21
+size:[512,342]
+name:"Mansion Escape"
+author:"Nick Parkman"
+
+{card:Title}
+image:"%%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BwAhAQcAFQEFAAMBBgAdAQcABQEGAAIBBgAdAQYA4QEGABIBBgAKAQYADAEGAAEBBgAEAQcAIgEHACEBBgAVAQYAAgEGAB0BBgAHAQYAAQEFAB4BBgDhAQYAEwEFAAsBBgAMAQwABQEHACIBBwAhAQYAFAEGAAMBBgAbAQYACAEGAAEBBQAfAQYA4AEGABQBAwAMAQYADAELAAcBBgAjAQcAIAEHABQBBgACAQcAGQEHAAkBCwAfAQcA3wEGACQBBgALAQsABwEGACQBBgAhAQgAEgEGAAMBBwAXAQcACgELACABBwDeAQUAJQEHAAsBCQAJAQQAJgEGAA0BAwARAQgAEgEFAAQBCAATAQgADAEKACEBBwDeAQMAJwEHAAsBBgA1AQYADAEFABEBCAARAQUABQEIABEBCAANAQkAIwEHAP8ACQEHAEYBBgALAQUAEgEHABEBBQAGAQgADwEIAA8BCAAkAQcA/wAJAQcARQEGAAsBHgARAQUABwEIAA0BCAAQAQgAJQEGAP8ACgEGAEYBBQALAR4AEQEGAAcBCgAFAQwAEQEIACYBBQD/AAsBBQBHAQMADAEeABEBBgAJARcAFAEHACYBBQD/AAwBAwBYAR0AEgEFAAoBFQAVAQcAJwEDAP8AagEaABMBBQALARMAFgEGAP8AwgEFAAwBEQAXAQYA/wDDAQMAEAEJAB0BBQD/APwBBQD/AP0BAwD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8AsA=="
+{widgets}
+Start:{"type":"button","size":[192,64],"pos":[160,224],"script":"Title.0","text":"Begin?"}
+
+{script:Title.0}
+on click do
+  go["Next" "BoxIn"]
+end
+{end}
+
+{card:Bedroom}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Bedroom\nThis room is old, everything in it is faded and torn, but orderly. There is a dirty window that overlooks the backyard, and a door that leads to the hallway.\nThe Door has finally unlocked! Time to escape!"}
+button1:{"type":"button","size":[128,32],"pos":[96,224],"script":"Bedroom.0","text":"Window"}
+button2:{"type":"button","size":[128,32],"pos":[288,224],"script":"Bedroom.1","text":"Hallway"}
+
+{script:Bedroom.0}
+on click do
+  go["Bedroom Window" "SlideDown"]
+end
+{end}
+
+{script:Bedroom.1}
+on click do
+  go["Hallway1" "SlideLeft"]
+end
+{end}
+
+{card:Hallway1}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Hallway\nThe hallway goes north and south. The wooden floor is stained and rotten in places. The walls aren't much better with the ocasional hole every once in a while."}
+button1:{"type":"button","size":[128,32],"pos":[96,224],"script":"Hallway1.0","text":"Bedroom"}
+button2:{"type":"button","size":[128,32],"pos":[192,288],"script":"Hallway1.1","text":"South"}
+button3:{"type":"button","size":[128,32],"pos":[288,224],"script":"Hallway1.2","text":"North"}
+
+{script:Hallway1.0}
+on click do
+  go["Bedroom" "SlideRight"]
+end
+{end}
+
+{script:Hallway1.1}
+on click do
+  go["South Hallway" "SlideUp"]
+end
+{end}
+
+{script:Hallway1.2}
+on click do
+  go["North Hallway" "SlideDown"]
+end
+{end}
+
+{card:South Hallway}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Bedroom Hallway South\nThere are three doors down the hallway before it turns east. "}
+button1:{"type":"button","size":[96,32],"pos":[64,224],"script":"South Hallway.0","text":"Bathroom"}
+button2:{"type":"button","size":[96,32],"pos":[209,224],"script":"South Hallway.1","text":"Guest Room"}
+button3:{"type":"button","size":[96,32],"pos":[352,224],"script":"South Hallway.2","text":"Corner Room"}
+button4:{"type":"button","size":[96,32],"pos":[288,288],"script":"South Hallway.3","text":"East"}
+button5:{"type":"button","size":[96,32],"pos":[128,288],"script":"South Hallway.4","text":"North"}
+
+{script:South Hallway.0}
+on click do
+  go["South Room 1" "SlideLeft"]
+end
+{end}
+
+{script:South Hallway.1}
+on click do
+  go["South Room 2" "SlideRight"]
+end
+{end}
+
+{script:South Hallway.2}
+on click do
+  go["South Room 3" "SlideUp"]
+end
+{end}
+
+{script:South Hallway.3}
+on click do
+  go["East Hallway" "SlideLeft"]
+end
+{end}
+
+{script:South Hallway.4}
+on click do
+  go["Hallway1" "SlideDown"]
+end
+{end}
+
+{card:Bedroom Window}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Bedroom Window\nThe Window looks out to an overgrown Hedge Maze in the backyard of the mansion.\nThe Window doesn't open. "}
+Back Up:{"type":"button","size":[128,32],"pos":[192,224],"script":"Bedroom Window.0","text":"Back Up"}
+
+{script:Bedroom Window.0}
+on click do
+  go["Bedroom" "SlideUp"]
+end
+{end}
+
+{card:South Room 1}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Small Bathroom\nThis small bathroom is distusting, the smell alone making it hard to stand within the small enclosed place."}
+button1:{"type":"button","size":[128,32],"pos":[96,224],"script":"South Room 1.0","text":"Bathtub"}
+button2:{"type":"button","size":[128,32],"pos":[288,224],"script":"South Room 1.1","text":"Leave"}
+
+{script:South Room 1.0}
+on click do
+  go["Bathtub" "SlideLeft"]
+end
+{end}
+
+{script:South Room 1.1}
+on click do
+  go["South Hallway" "SlideRight"]
+end
+{end}
+
+{card:Bathtub}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Bathtub\nThere is a large black bag in the bathtub. It's lumpy and takes up the whole tub... It's best to leave it alone."}
+button1:{"type":"button","size":[128,32],"pos":[192,224],"script":"Bathtub.0","text":"Back"}
+
+{script:Bathtub.0}
+on click do
+  go["South Room 1" "BoxIn"]
+end
+{end}
+
+{card:North Hallway}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: North Hallway\nThe hallway continues to be dingy and on the verge of collapse. There are even shards of glass to be found in this section of the hallway. The hallway ends in a door with an elevator entrance to the left of it. "}
+button1:{"type":"button","size":[128,32],"pos":[96,224],"script":"North Hallway.0","text":"Elavator"}
+button2:{"type":"button","size":[128,32],"pos":[288,224],"script":"North Hallway.1","text":"Door"}
+button3:{"type":"button","size":[128,32],"pos":[192,288],"script":"North Hallway.2","text":"South"}
+
+{script:North Hallway.0}
+on click do
+  go["Elavator" "SlideRight"]
+end
+{end}
+
+{script:North Hallway.1}
+on click do
+  go["North Room" "SlideDown"]
+end
+{end}
+
+{script:North Hallway.2}
+on click do
+  go["Hallway1" "SlideUp"]
+end
+{end}
+
+{card:South Room 2}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location:Guest Room\nAnother Bedroom, looks disheveled. It looks like a torando has wrecked the room and thrown everything around. There is also a dirty window in this room."}
+button1:{"type":"button","size":[128,32],"pos":[96,224],"script":"South Room 2.0","text":"Window"}
+button2:{"type":"button","size":[128,32],"pos":[288,224],"script":"South Room 2.1","text":"Leave"}
+
+{script:South Room 2.0}
+on click do
+  go["South Room 2 Window" "SlideRight"]
+end
+{end}
+
+{script:South Room 2.1}
+on click do
+  go["South Hallway" "SlideLeft"]
+end
+{end}
+
+{card:South Room 2 Window}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Window\nThe Window looks out over the large garage on the West side of the house.\nThe Window won't Open"}
+button1:{"type":"button","size":[128,32],"pos":[192,224],"script":"South Room 2 Window.0","text":"Back"}
+
+{script:South Room 2 Window.0}
+on click do
+  go["South Room 2" "SlideLeft"]
+end
+{end}
+
+{card:Elavator}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Elevator\nElevator is not working. Change?"}
+button1:{"type":"button","size":[128,32],"pos":[192,224],"script":"Elavator.0","text":"Leave"}
+
+{script:Elavator.0}
+on click do
+  go["North Hallway" "SlideLeft"]
+end
+{end}
+
+{card:North Room}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: North Room\nThis room has a map of the hedge maze."}
+button1:{"type":"button","size":[128,32],"pos":[96,224],"script":"North Room.0","text":"Leave"}
+button2:{"type":"button","size":[128,32],"pos":[288,224],"script":"North Room.1","text":"Inspect Map"}
+
+{script:North Room.0}
+on click do
+  go["North Hallway" "SlideUp"]
+end
+{end}
+
+{script:North Room.1}
+on click do
+  go["card2" "SlideDown"]
+end
+{end}
+
+{card:South Room 3}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Corner Room \nDoor is locked!"}
+button1:{"type":"button","size":[128,32],"pos":[192,224],"script":"South Room 3.0","text":"Back"}
+
+{script:South Room 3.0}
+on click do
+  go["South Hallway" "SlideDown"]
+end
+{end}
+
+{card:East Hallway}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: East Hallway\n2 rooms along this stretch of dirty hallway. With Windows looking out front, and stairs leading downward at the end of the hallway."}
+button1:{"type":"button","size":[96,32],"pos":[64,224],"script":"East Hallway.0","text":"Laundry Room"}
+button2:{"type":"button","size":[128,32],"pos":[192,224],"script":"East Hallway.1","text":"Master Bedroom"}
+button3:{"type":"button","size":[96,32],"pos":[352,224],"script":"East Hallway.2","text":"Windows"}
+button4:{"type":"button","size":[96,32],"pos":[288,288],"script":"East Hallway.3","text":"Stairs"}
+button5:{"type":"button","size":[96,32],"pos":[128,288],"script":"South Room 1.1","text":"West"}
+
+{script:East Hallway.0}
+on click do
+  go["East Room 1" "SlideDown"]
+end
+{end}
+
+{script:East Hallway.1}
+on click do
+  go["East Room 2" "SlideDown"]
+end
+{end}
+
+{script:East Hallway.2}
+on click do
+  go["East Windows" "SlideUp"]
+end
+{end}
+
+{script:East Hallway.3}
+on click do
+  go["Stairs" "SlideLeft"]
+end
+{end}
+
+{card:East Room 2}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Master Bedroom\nThis Door is locked!"}
+button1:{"type":"button","size":[128,32],"pos":[192,224],"script":"East Room 2.0","text":"Back"}
+
+{script:East Room 2.0}
+on click do
+  go["East Hallway" "BoxIn"]
+end
+{end}
+
+{card:East Room 1}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Laundry Room\nThis appears to be a laundry room"}
+button1:{"type":"button","size":[128,32],"pos":[96,224],"script":"East Room 1.0","text":"Search"}
+button2:{"type":"button","size":[128,32],"pos":[288,224],"script":"East Room 1.1","text":"Leave"}
+
+{script:East Room 1.0}
+on click do
+  go["East Room 1 Cabinents" "BoxIn"]
+end
+{end}
+
+{script:East Room 1.1}
+on click do
+  go["East Hallway" "SlideUp"]
+end
+{end}
+
+{card:East Room 1 Cabinents}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Cabinents\nSomething here? Somthing creepy? Remove?"}
+button1:{"type":"button","size":[128,32],"pos":[192,224],"script":"East Room 1 Cabinents.0","text":"Back"}
+
+{script:East Room 1 Cabinents.0}
+on click do
+  go["East Room 1" "BoxIn"]
+end
+{end}
+
+{card:Stairs}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[161,96],"value":"Location: Stairs\nThis stairway is in shambles, with cracked stairs and a broken railing. "}
+button1:{"type":"button","size":[128,32],"pos":[96,224],"script":"Stairs.0","text":"2nd Floor"}
+button2:{"type":"button","size":[128,32],"pos":[288,224],"script":"Stairs.1","text":"1st Floor"}
+
+{script:Stairs.0}
+on click do
+  go["East Hallway" "SlideRight"]
+end
+{end}
+
+{script:Stairs.1}
+on click do
+  go["1st Floor Entry Hall" "SlideLeft"]
+end
+{end}
+
+{card:East Windows}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: East Hallway Windows\nLooks over the round about of a driveway leading to the front door. It's a nice view. The Windows don't open."}
+button1:{"type":"button","size":[128,32],"pos":[192,224],"script":"East Windows.0","text":"Back Up"}
+
+{script:East Windows.0}
+on click do
+  go["East Hallway" "SlideDown"]
+end
+{end}
+
+{card:1st Floor Entry Hall}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Entry Hall\nThis Entry Hall is in ruin, the grand staircase is half collapsed, leaving the Upper East Wing inaccessable. On the first floor there is the grand front door, and 2 different archways leading further into the mansion."}
+button1:{"type":"button","size":[128,32],"pos":[288,224],"script":"1st Floor Entry Hall.0","text":"Front Door"}
+button2:{"type":"button","size":[128,32],"pos":[96,224],"script":"1st Floor Entry Hall.1","text":"2nd Floor West Wing"}
+button3:{"type":"button","size":[128,32],"pos":[96,288],"script":"1st Floor Entry Hall.2","text":"East Archway"}
+button4:{"type":"button","size":[128,32],"pos":[288,288],"script":"1st Floor Entry Hall.3","text":"West Archway"}
+
+{script:1st Floor Entry Hall.0}
+on click do
+  go["Front1" "SlideUp"]
+end
+{end}
+
+{script:1st Floor Entry Hall.1}
+on click do
+  go["Stairs" "SlideRight"]
+end
+{end}
+
+{script:1st Floor Entry Hall.2}
+on click do
+  go["East  Room" "SlideRight"]
+end
+{end}
+
+{script:1st Floor Entry Hall.3}
+on click do
+  go["West Room" "SlideLeft"]
+end
+{end}
+
+{card:Front1}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Front Door\nLocked! These large double doors aren't budging no matter how hard you try!"}
+button1:{"type":"button","size":[128,32],"pos":[192,224],"script":"Front1.0","text":"Back"}
+
+{script:Front1.0}
+on click do
+  go["1st Floor Entry Hall" "SlideDown"]
+end
+{end}
+
+{card:East  Room}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Living Room"}
+button1:{"type":"button","size":[96,32],"pos":[128,224],"script":"Stairs.1","text":"Archway"}
+button2:{"type":"button","size":[96,32],"pos":[288,224],"script":"East  Room.0","text":"Garage"}
+button3:{"type":"button","size":[96,32],"pos":[128,288],"script":"East  Room.1","text":"Back Room"}
+button4:{"type":"button","size":[96,32],"pos":[288,288],"script":"East  Room.2","text":"Window"}
+
+{script:East  Room.0}
+on click do
+  go["Garage" "SlideRight"]
+end
+{end}
+
+{script:East  Room.1}
+on click do
+  go["Back Room" "SlideDown"]
+end
+{end}
+
+{script:East  Room.2}
+on click do
+  go["Living Room Window" "SlideUp"]
+end
+{end}
+
+{card:West Room}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: West Room\nOld Dinning Room"}
+button1:{"type":"button","size":[96,32],"pos":[128,224],"script":"West Room.0","text":"Archway"}
+button2:{"type":"button","size":[96,32],"pos":[288,224],"script":"West Room.1","text":"Kitchen"}
+button3:{"type":"button","size":[128,32],"pos":[192,288],"script":"West Room.2","text":"Window"}
+
+{script:West Room.0}
+on click do
+  go["1st Floor Entry Hall" "SlideRight"]
+end
+{end}
+
+{script:West Room.1}
+on click do
+  go["Kitchen" "SlideDown"]
+end
+{end}
+
+{script:West Room.2}
+on click do
+  go["Dinning Room Window" "SlideUp"]
+end
+{end}
+
+{card:Garage}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Garage"}
+button1:{"type":"button","size":[128,32],"pos":[192,224],"script":"Garage.0","text":"Back"}
+
+{script:Garage.0}
+on click do
+  go["East  Room" "SlideLeft"]
+end
+{end}
+
+{card:Living Room Window}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Living Room Window"}
+button1:{"type":"button","size":[128,32],"pos":[192,224],"script":"Living Room Window.0","text":"Back"}
+
+{script:Living Room Window.0}
+on click do
+  go["East  Room" "SlideDown"]
+end
+{end}
+
+{card:Back Room}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Back Room\n-description\n-backdoor"}
+button1:{"type":"button","size":[96,32],"pos":[128,224],"script":"Back Room.0","text":"Back"}
+button2:{"type":"button","size":[96,32],"pos":[288,224],"text":"Back Door"}
+
+{script:Back Room.0}
+on click do
+  go["East  Room" "SlideUp"]
+end
+{end}
+
+{card:Dinning Room Window}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Dinning Room Windows"}
+button1:{"type":"button","size":[128,32],"pos":[192,224],"script":"Dinning Room Window.0","text":"Back"}
+
+{script:Dinning Room Window.0}
+on click do
+  go["West Room" "SlideDown"]
+end
+{end}
+
+{card:Kitchen}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Kitchen\n-description"}
+button1:{"type":"button","size":[96,32],"pos":[128,224],"script":"Kitchen.0","text":"Dinning Room"}
+button2:{"type":"button","size":[96,32],"pos":[288,224],"text":"Back Door"}
+
+{script:Kitchen.0}
+on click do
+  go["West Room" "SlideUp"]
+end
+{end}
+
+{card:HM East Entrance}
+image:"%%IMG2AgABVhn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xkbAQMZ/xn9AQUZ/xn7AQcZ/xn6AQcZ/xn6AQcZ/xn7AQUZ/xn9AQMZ/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/GYQ="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Hedge Maze East Entrance"}
+button1:{"type":"button","size":[96,32],"pos":[128,224],"text":"Inside"}
+button2:{"type":"button","size":[96,32],"pos":[288,224],"text":"Enter Maze"}
+
+{card:HM West Entrance}
+image:"%%IMG2AgABVhn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Zrg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Hedge Maze West Entrance"}
+button1:{"type":"button","size":[96,32],"pos":[128,224],"text":"Inside"}
+button2:{"type":"button","size":[96,32],"pos":[288,224],"text":"Enter Maze"}
+
+{card:card2}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AFkBwwAdAeMAPAHFABsB5QA6AccAGQHnADkBxwAZAecAOQHHABkB5wA5AccAGQHnADkBxwAZAecAOQEHALkBBwAZAQcA2QEHADkBBwC5AQcAGQEHANkBBwA5AQcAuQEHABkBBwDZAQcAOQEHALkBBwAZAQcA2QEHADkBBwC5AQcAGQEHANkBBwA5AQcAuQEHABkBBwDZAQcAOQEHALkBBwAZAQcA2QEHADkBBwC5AQcAGQEHANkBBwA5AQcAuQEHABkBBwDZAQcAOQEHALkBBwAZAQcA2QEHADkBBwC5AQcAGQEHANkBBwA5AQcAuQEHABkBBwDZAQcAOQEHALkBBwAZAQcA2QEHADkBBwC5AQcAGQEHANkBBwA5AQcAuQEHABkBBwDZAQcAOQEHALkBBwAZAQcA2QEHADkBBwC5AQcAGQEHANkBBwA5AQcAuQEHABkBBwDZAQcAOQEHALkBBwAZAQcA2QEHADkBBwC5AQcAGQEHANkBBwA5AQcAuQEHABkBBwDZAQcAOQEHALkBBwAZAQcA2QEHADkBBwC5AQcAGQEHANkBBwA5AQcAuQEHABkBBwDZAQcAOQEHALkBBwAZAQcA2QEHADkBBwAbAUMAHQEDAB0BAwAbAQcAGQFFAB0BQwAdAQMAGwEHADkBBwAaAUUAGwEFABsBBQAaAQcAGQFGABsBRQAbAQUAGgEHADkBBwAZAUcAGQEHABkBBwAZAQcAGQFHABkBRwAZAQcAGQEHADkBBwAZAUcAGQEHABkBBwAZAQcAGQFHABkBRwAZAQcAGQEHADkBBwAZAUcAGQEHABkBBwAZAQcAGQFHABkBRwAZAQcAGQEHADkBBwAaAUYAGQEHABkBBwAZAQcAGgFFABsBRgAZAQcAGQEHADkBBwAbAUUAGQEHABkBBwAZAQcAGwFDAB0BRQAZAQcAGQEHADkBBwBZAQcAGQEHABkBBwAZAQcAuQEHABkBBwAZAQcAOQEHAFkBBwAZAQcAGQEHABkBBwC5AQcAGQEHABkBBwA5AQcAWQEHABkBBwAZAQcAGQEHALkBBwAZAQcAGQEHADkBBwBZAQcAGQEHABkBBwAZAQcAuQEHABkBBwAZAQcAOQEHAFkBBwAZAQcAGQEHABkBBwC5AQcAGQEHABkBBwA5AQcAWQEHABkBBwAZAQcAGQEHALkBBwAZAQcAGQEHADkBBwBZAQcAGQEHABkBBwAZAQcAuQEHABkBBwAZAQcAOQEHAFkBBwAZAQcAGQEHABkBBwC5AQcAGQEHABkBBwA5AQcAWQEHABkBBwAZAQcAGQEHALkBBwAZAQcAGQEHADkBBwBZAQcAGQEHABkBBwAZAQcAuQEHABkBBwAZAQcAOQEHAFkBBwAZAQcAGQEHABkBBwC5AQcAGQEHABkBBwA5AQcAWQEHABkBBwAZAQcAGQEHALkBBwAZAQcAGQEHADkBBwBZAQcAGQEHABkBBwAZAQcAuQEHABkBBwAZAQcAOQEHAFkBBwAZAQcAGQEHABkBBwC5AQcAGQEHABkBBwA5AQcAWQEHABkBBwAZAQcAGQEHALkBBwAZAQcAGQEHADkBBwBZAQcAGQEHABkBBwAZAQcAuQEHABkBBwAZAQcAOQEHAFkBBwAZAQcAGQEHABkBBwC5AQcAGQEHABkBBwA5AQcAWQEHABkBBwAZAQcAGQEHALkBBwAZAQcAGQEHADkBBwBZAQcAGQEHABkBBwAZAQcAuQEHABkBBwAZAQcAOQEHAFkBBwAZAQcAGQEHABkBBwC5AQcAGQEHABkBBwA5AQcAWQEHABkBBwAZAQcAGQEHALkBBwAZAQcAGQEHADkBBwBZAQcAGQEHABkBBwAZAQcAuQEHABkBBwAZAQcAOQEHAFkBBwAZAQcAGQEHABkBBwC5AQcAGQEHABkBBwA5AQcAWQEHABkBBwAZAQcAGQEHALkBBwAZAQcAGQEHADkBBwBZAQcAGQEHABkBBwAZAQcAuQEHABkBBwAZAQcAOQEHABsBIwAbAQcAGQEHABkBBwAZAaUAGwEHABkBBwAZAQcAOQEHABoBJQAaAQcAGQEHABkBBwAZAaYAGgEHABkBBwAZAQcAOQEHABkBJwAZAQcAGQEHABkBBwAZAacAGQEHABkBBwAZAQcAOQEHABkBJwAZAQcAGQEHABkBBwAZAacAGQEHABkBBwAZAQcAOQEHABkBJwAZAQcAGQEHABkBBwAZAacAGQEHABkBBwAZAQcAOQEHABoBJgAZAQcAGQEHABkBBwAaAaYAGQEHABkBBwAZAQcAOQEHABsBJQAZAQcAGQEHABkBBwAbAaUAGQEHABkBBwAZAQcAOQEHADkBBwAZAQcAGQEHABkBBwBZAQcAWQEHABkBBwAZAQcAGQEHADkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAFkBBwAZAQcAGQEHABkBBwA5AQcAOQEHABkBBwAZAQcAGQEHAFkBBwBZAQcAGQEHABkBBwAZAQcAOQEHADkBBwAZAQcAGQEHABkBBwBZAQcAWQEHABkBBwAZAQcAGQEHADkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAFkBBwAZAQcAGQEHABkBBwA5AQcAOQEHABkBBwAZAQcAGQEHAFkBBwBZAQcAGQEHABkBBwAZAQcAOQEHADkBBwAZAQcAGQEHABkBBwBZAQcAWQEHABkBBwAZAQcAGQEHADkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAFkBBwAZAQcAGQEHABkBBwA5AQcAOQEHABkBBwAZAQcAGQEHAFkBBwBZAQcAGQEHABkBBwAZAQcAOQEHADkBBwAZAQcAGQEHABkBBwBZAQcAWQEHABkBBwAZAQcAGQEHADkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAFkBBwAZAQcAGQEHABkBBwA5AQcAOQEHABkBBwAZAQcAGQEHAFkBBwBZAQcAGQEHABkBBwAZAQcAOQEHADkBBwAZAQcAGQEHABkBBwBZAQcAWQEHABkBBwAZAQcAGQEHADkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAFkBBwAZAQcAGQEHABkBBwA5AQcAOQEHABkBBwAZAQcAGQEHAFkBBwBZAQcAGQEHABkBBwAZAQcAOQEHADkBBwAZAQcAGQEHABkBBwBZAQcAWQEHABkBBwAZAQcAGQEHADkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAFkBBwAZAQcAGQEHABkBBwA5AQcAOQEHABkBBwAZAQcAGQEHAFkBBwBZAQcAGQEHABkBBwAZAQcAOQEHADkBBwAZAQcAGQEHABkBBwBZAQcAWQEHABkBBwAZAQcAGQEHADkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAFkBBwAZAQcAGQEHABkBBwA5AQcAOQEHABkBBwAZAQcAGQEHAFkBBwBZAQcAGQEHABkBBwAZAQcAOQEHADkBBwAZAQcAGQEHABkBBwBZAQcAWQEHABkBBwAZAQcAGQEHADkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAFkBBwAZAQcAGQEHABkBBwA5AQcAOQEHABkBBwAZAQcAGQEHAFkBBwBZAQcAGQEHABkBBwAZAQcAOQEHADkBBwAZAQcAGQEHABkBBwBZAQcAWQEHABkBBwAZAQcAGQEHADkBJQAbAQcAGQEHABkBRQAdASUAGwEjABsBBwAZAQcAGQEHABkBBwA5ASYAGgEHABkBBwAZAUYAGwEmABoBJQAaAQcAGQEHABkBBwAZAQcAOQEnABkBBwAZAQcAGQFHABkBJwAZAScAGQEHABkBBwAZAQcAGQEHADkBJwAZAQcAGQEHABkBRwAZAScAGQEnABkBBwAZAQcAGQEHABkBBwA5AScAGQEHABkBBwAZAUcAGQEnABkBJwAZAQcAGQEHABkBBwAZAQcAOQEnABkBBwAZAQcAGgFFABsBJgAaASYAGQEHABkBBwAZAQcAGQEHADkBJwAZAQcAGQEHABsBQwAdASUAGwElABkBBwAZAQcAGQEHABkBBwA5AQcAGQEHABkBBwAZAQcAmQEHADkBBwAZAQcAGQEHABkBBwAZAQcAOQEHABkBBwAZAQcAGQEHAJkBBwA5AQcAGQEHABkBBwAZAQcAGQEHADkBBwAZAQcAGQEHABkBBwCZAQcAOQEHABkBBwAZAQcAGQEHABkBBwA5AQcAGQEHABkBBwAZAQcAmQEHADkBBwAZAQcAGQEHABkBBwAZAQcAOQEHABkBBwAZAQcAGQEHAJkBBwA5AQcAGQEHABkBBwAZAQcAGQEHADkBBwAZAQcAGQEHABkBBwCZAQcAOQEHABkBBwAZAQcAGQEHABkBBwA5AQcAGQEHABkBBwAZAQcAmQEHADkBBwAZAQcAGQEHABkBBwAZAQcAOQEHABkBBwAZAQcAGQEHAJkBBwA5AQcAGQEHABkBBwAZAQcAGQEHADkBBwAZAQcAGQEHABkBBwCZAQcAOQEHABkBBwAZAQcAGQEHABkBBwA5AQcAGQEHABkBBwAZAQcAmQEHADkBBwAZAQcAGQEHABkBBwAZAQcAOQEHABkBBwAZAQcAGQEHAJkBBwA5AQcAGQEHABkBBwAZAQcAGQEHADkBBwAZAQcAGQEHABkBBwCZAQcAOQEHABkBBwAZAQcAGQEHABkBBwA5AQcAGQEHABkBBwAZAQcAmQEHADkBBwAZAQcAGQEHABkBBwAZAQcAOQEHABkBBwAZAQcAGQEHAJkBBwA5AQcAGQEHABkBBwAZAQcAGQEHADkBBwAZAQcAGQEHABkBBwCZAQcAOQEHABkBBwAZAQcAGQEHABkBBwA5AQcAGQEHABkBBwAZAQcAmQEHADkBBwAZAQcAGQEHABkBBwAZAQcAOQEHABkBBwAZAQcAGQEHAJkBBwA5AQcAGQEHABkBBwAZAQcAGQEHADkBBwAZAQcAGQEHABkBBwCZAQcAOQEHABkBBwAZAQcAGQEHABkBBwA5AQcAGQEHABkBBwAZAQcAmQEHADkBBwAZAQcAGQEHABkBBwAZAQcAOQEHABkBBwAZAQcAGQEHAJkBBwA5AQcAGQEHABkBBwAZAQcAGQEHADkBBwAZAQcAGQEHABkBBwCZAQcAOQEHABkBBwAZAQcAGQEHABkBBwA5AQcAGQEHABkBBwAZAQcAmQEHADkBBwAZAQcAGQEHABkBBwAZAQcAOQEHABkBBwAZAQcAGQEHAJkBBwA5AQcAGQEHABkBBwAZAQcAGQEHADkBBwAZAQcAGQEHABkBBwCZAQcAOQEHABkBBwAZAQcAGQEHABkBBwA5AQcAGQEHABkBBwAZAQcAmQEHADkBBwAZAQcAGQEHABkBBwAZAQcAOQEHABkBBwAZAQcAGQGFABsBJQAbAQcAGQFHABkBBwA5AQcAGQEHABkBBwAZAYYAGgEmABoBBwAZAUcAGQEHADkBBwAZAQcAGQEHABkBhwAZAScAGQEHABkBRwAZAQcAOQEHABkBBwAZAQcAGQGHABkBJwAZAQcAGQFHABkBBwA5AQcAGQEHABkBBwAZAYcAGQEnABkBBwAZAUcAGQEHADkBBwAZAQcAGQEHABoBhgAaASYAGQEHABoBRQAaAQcAOQEHABkBBwAZAQcAGwGFABsBJQAZAQcAGwFDABsBBwA5AQcAGQEHABkBBwBZAQcAOQEHADkBBwAZAQcAeQEHADkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHABkBBwB5AQcAOQEHABkBBwAZAQcAWQEHADkBBwA5AQcAGQEHAHkBBwA5AQcAGQEHABkBBwBZAQcAOQEHADkBBwAZAQcAeQEHADkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHABkBBwB5AQcAOQEHABkBBwAZAQcAWQEHADkBBwA5AQcAGQEHAHkBBwA5AQcAGQEHABkBBwBZAQcAOQEHADkBBwAZAQcAeQEHADkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHABkBBwB5AQcAOQEHABkBBwAZAQcAWQEHADkBBwA5AQcAGQEHAHkBBwA5AQcAGQEHABkBBwBZAQcAOQEHADkBBwAZAQcAeQEHADkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHABkBBwB5AQcAOQEHABkBBwAZAQcAWQEHADkBBwA5AQcAGQEHAHkBBwA5AQcAGQEHABkBBwBZAQcAOQEHADkBBwAZAQcAeQEHADkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHABkBBwB5AQcAOQEHABkBBwAZAQcAWQEHADkBBwA5AQcAGQEHAHkBBwA5AQcAGQEHABkBBwBZAQcAOQEHADkBBwAZAQcAeQEHADkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHABkBBwB5AQcAOQEHABkBBwAZAQcAWQEHADkBBwA5AQcAGQEHAHkBBwA5AQcAGQEHABkBBwBZAQcAOQEHADkBBwAZAQcAeQEHADkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHABkBBwB5AQcAOQEHABkBBwAZAQcAWQEHADkBBwA5AQcAGQEHAHkBBwA5AQcAGQEHABkBBwBZAQcAOQEHADkBBwAZAQcAeQEHADkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHABkBBwB5AQcAOQEHABkBBwAZAQcAWQEHADkBBwA5AQcAGQEHAHkBBwA5AQcAGQEHABkBBwBZAQcAOQEHADkBBwAZAQcAeQEHADkBBwAZAWUAGwEHABsBAwAbASUAGwEHABkBhwA5AQcAGQFmABoBBwAaAQUAGgEmABoBBwAZAYcAOQEHABkBZwAZAQcAGQEHABkBJwAZAQcAGQGHADkBBwAZAWcAGQEHABkBBwAZAScAGQEHABkBhwA5AQcAGQFnABkBBwAZAQcAGQEnABkBBwAZAYcAOQEHABoBZgAZAQcAGQEHABoBJQAaAQcAGgGGADkBBwAbAWUAGQEHABkBBwAbASMAGwEHABsBhQA5AQcAeQEHABkBBwAZAQcAWQEHAFkBBwA5AQcAOQEHAHkBBwAZAQcAGQEHAFkBBwBZAQcAOQEHADkBBwB5AQcAGQEHABkBBwBZAQcAWQEHADkBBwA5AQcAeQEHABkBBwAZAQcAWQEHAFkBBwA5AQcAOQEHAHkBBwAZAQcAGQEHAFkBBwBZAQcAOQEHADkBBwB5AQcAGQEHABkBBwBZAQcAWQEHADkBBwA5AQcAeQEHABkBBwAZAQcAWQEHAFkBBwA5AQcAOQEHAHkBBwAZAQcAGQEHAFkBBwBZAQcAOQEHADkBBwB5AQcAGQEHABkBBwBZAQcAWQEHADkBBwA5AQcAeQEHABkBBwAZAQcAWQEHAFkBBwA5AQcAOQEHAHkBBwAZAQcAGQEHAFkBBwBZAQcAOQEHADkBBwB5AQcAGQEHABkBBwBZAQcAWQEHADkBBwA5AQcAeQEHABkBBwAZAQcAWQEHAFkBBwA5AQcAOQEHAHkBBwAZAQcAGQEHAFkBBwBZAQcAOQEHADkBBwB5AQcAGQEHABkBBwBZAQcAWQEHADkBBwA5AQcAeQEHABkBBwAZAQcAWQEHAFkBBwA5AQcAOQEHAHkBBwAZAQcAGQEHAFkBBwBZAQcAOQEHADkBBwB5AQcAGQEHABkBBwBZAQcAWQEHADkBBwA5AQcAeQEHABkBBwAZAQcAWQEHAFkBBwA5AQcAOQEHAHkBBwAZAQcAGQEHAFkBBwBZAQcAOQEHADkBBwB5AQcAGQEHABkBBwBZAQcAWQEHADkBBwA5AQcAeQEHABkBBwAZAQcAWQEHAFkBBwA5AQcAOQEHAHkBBwAZAQcAGQEHAFkBBwBZAQcAOQEHADkBBwB5AQcAGQEHABkBBwBZAQcAWQEHADkBBwA5AQcAeQEHABkBBwAZAQcAWQEHAFkBBwA5AQcAOQEHABsBQwAbAQcAGQEHABkBJQAdAWMAGwEHABsBAwAbAQcAOQEHABoBRQAaAQcAGQEHABkBJgAbAWUAGgEHABoBBQAaAQcAOQEHABkBRwAZAQcAGQEHABkBJwAZAWcAGQEHABkBBwAZAQcAOQEHABkBRwAZAQcAGQEHABkBJwAZAWcAGQEHABkBBwAZAQcAOQEHABkBRwAZAQcAGQEHABkBJwAZAWcAGQEHABkBBwAZAQcAOQEHABkBRgAbAQUAGgEHABoBJgAZAWcAGQEHABkBBwAZAQcAOQEHABkBRQAdAQMAGwEHABsBJQAZAWcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcAGQEHABkBBwAZAQcAOQEHABkBBwAbAWUAGwEDABsBBwAZAQcAGwEjABsBBwAZAQcAGQEHABkBBwA5AQcAGQEHABoBZgAaAQUAGgEHABkBBwAaASUAGgEHABkBBwAZAQcAGQEHADkBBwAZAQcAGQFnABkBBwAZAQcAGQEHABkBJwAZAQcAGQEHABkBBwAZAQcAOQEHABkBBwAZAWcAGQEHABkBBwAZAQcAGQEnABkBBwAZAQcAGQEHABkBBwA5AQcAGQEHABkBZwAZAQcAGQEHABkBBwAZAScAGQEHABkBBwAZAQcAGQEHADkBBwAZAQcAGQFmABoBBwAZAQcAGQEHABoBJgAZAQcAGgEFABoBBwAZAQcAOQEHABkBBwAZAWUAGwEHABkBBwAZAQcAGwElABkBBwAbAQMAGwEHABkBBwA5AQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHADkBBwAZAQcAOQEHABkBBwAZAQcAeQEHABkBBwAZAQcAOQEHABkBBwA5AQcAGQEHADkBBwAZAQcAGQEHAHkBBwAZAQcAGQEHADkBBwAZAQcAOQEHABkBBwA5AQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHADkBBwAZAQcAOQEHABkBBwAZAQcAeQEHABkBBwAZAQcAOQEHABkBBwA5AQcAGQEHADkBBwAZAQcAGQEHAHkBBwAZAQcAGQEHADkBBwAZAQcAOQEHABkBBwA5AQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHADkBBwAZAQcAOQEHABkBBwAZAQcAeQEHABkBBwAZAQcAOQEHABkBBwA5AQcAGQEHADkBBwAZAQcAGQEHAHkBBwAZAQcAGQEHADkBBwAZAQcAOQEHABkBBwA5AQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHADkBBwAZAQcAOQEHABkBBwAZAQcAeQEHABkBBwAZAQcAOQEHABkBBwA5AQcAGQEHADkBBwAZAQcAGQEHAHkBBwAZAQcAGQEHADkBBwAZAQcAOQEHABkBBwA5AQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHADkBBwAZAQcAOQEHABkBBwAZAQcAeQEHABkBBwAZAQcAOQEHABkBBwA5AQcAGQEHADkBBwAZAQcAGQEHAHkBBwAZAQcAGQEHADkBBwAZAQcAOQEHABkBBwA5AQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHADkBBwAZAQcAOQEHABkBBwAZAQcAeQEHABkBBwAZAQcAOQEHABkBBwA5AQcAGQEHADkBBwAZAQcAGQEHAHkBBwAZAQcAGQEHADkBBwAZAQcAOQEHABkBBwA5AQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHADkBBwAZAQcAOQEHABkBBwAZAQcAeQEHABkBBwAZAQcAOQEHABkBBwA5AQcAGQEHADkBBwAZAQcAGQEHAHkBBwAZAQcAGQEHADkBBwAZAQcAOQEHABkBBwA5AQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHADkBBwAZAQcAOQEHABkBBwAZAQcAeQEHABkBBwAZAQcAOQEHABkBBwA5AQcAGQEHADkBBwAZAQcAGQEHAHkBBwAZAQcAGQEHADkBBwAZAQcAOQEHABkBBwA5AQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHADkBBwAZAQcAOQEHABkBBwAZAQcAGwFlABkBZwAZAUcAGQEHADkBBwAZAQcAGQEHABoBZgAZAWcAGQFHABkBBwA5AQcAGQEHABkBBwAZAWcAGQFnABkBRwAZAQcAOQEHABkBBwAZAQcAGQFnABkBZwAZAUcAGQEHADkBBwAZAQcAGQEHABkBZwAZAWcAGQFHABkBBwA5AQcAGQEHABoBBQAaAWYAGwFlABoBRgAaAQcAOQEHABkBBwAbAQMAGwFlAB0BYwAbAUUAGwEHADkBBwAZAQcAOQEHAPkBBwBZAQcAOQEHABkBBwA5AQcA+QEHAFkBBwA5AQcAGQEHADkBBwD5AQcAWQEHADkBBwAZAQcAOQEHAPkBBwBZAQcAOQEHABkBBwA5AQcA+QEHAFkBBwA5AQcAGQEHADkBBwD5AQcAWQEHADkBBwAZAQcAOQEHAPkBBwBZAQcAOQEHABkBBwA5AQcA+QEHAFkBBwA5AQcAGQEHADkBBwD5AQcAWQEHADkBBwAZAQcAOQEHAPkBBwBZAQcAOQEHABkBBwA5AQcA+QEHAFkBBwA5AQcAGQEHADkBBwD5AQcAWQEHADkBBwAZAQcAOQEHAPkBBwBZAQcAOQEHABkBBwA5AQcA+QEHAFkBBwA5AQcAGQEHADkBBwD5AQcAWQEHADkBBwAZAQcAOQEHAPkBBwBZAQcAOQEHABkBBwA5AQcA+QEHAFkBBwA5AQcAGQEHADkBBwD5AQcAWQEHADkBBwAZAQcAOQEHAPkBBwBZAQcAOQEHABkBBwA5AQcA+QEHAFkBBwA5AQcAGQEHADkBBwD5AQcAWQEHADkBBwAZAQcAOQEHAPkBBwBZAQcAOQEHABkBBwA5AQcA+QEHAFkBBwA5AQcAGQEHADkBBwD5AQcAWQEHADkBBwAZAQcAOQEHAPkBBwBZAQcAOQEHABkB/wGGABsBBwA5AQcAGQH/AYcAGgEHADkBBwAZAf8BiAAZAQcAOQEHABkB/wGIABkBBwA5AQcAGQH/AYgAGQEHADkBBwAZAf8BiAAZAQcAOQEHABkB/wGIABkBBwA5AQcAGQEHAP8AegEHABkBBwA5AQcAGQEHAP8AegEHABkBBwA5AQcAGQEHAP8AegEHABkBBwA5AQcAGQEHAP8AegEHABkBBwA5AQcAGQEHAP8AegEHABkBBwA5AQcAGQEHAP8AegEHABkBBwA5AQcAGQEHAP8AegEHABkBBwA5AQcAGQEHAP8AegEHABkBBwA5AQcAGQEHAP8AegEHABkBBwA5AQcAGQEHAP8AegEHABkBBwA5AQcAGQEHAP8AegEHABkBBwA5AQcAGQEHAP8AegEHABkBBwA5AQcAGQEHAP8AegEHABkBBwA5AQcAGQEHAP8AegEHABkBBwA5AQcAGQEHAP8AegEHABkBBwA5AQcAGQEHAP8AegEHABkBBwA5AQcAGQEHAP8AegEHABkBBwA5AQcAGQEHAP8AegEHABkBBwAc"
+{widgets}
+button1:{"type":"button","size":[64,32],"pos":[224,288],"script":"card2.0","text":"Back","style":"invisible"}
+
+{script:card2.0}
+on click do
+  go["North Room" "SlideUp"]
+end
+{end}
+
+{card:Maze Left Side}
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Maze East Side\nDead Ends!"}
+
+{card:Maze West Side}
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Maze West Side\nEnd of Maze!"}
+
+{card:Escape}
+image:"%%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/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/APg="
+{widgets}
+button1:{"type":"button","size":[192,64],"pos":[160,224],"script":"Escape.0","text":"Replay?"}
+
+{script:Escape.0}
+on click do
+  go["First" "BoxIn"]
+end
+{end}
+
