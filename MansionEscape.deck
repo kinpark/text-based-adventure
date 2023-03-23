@@ -1,0 +1,1024 @@
+{deck}
+version:1
+card:0
+size:[512,342]
+name:"Mansion Escape"
+author:"Nick Parkman"
+
+{card:Title}
+image:"%%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BwAhAQcAFQEFAAMBBgAdAQcABQEGAAIBBgAdAQYA4QEGABIBBgAKAQYADAEGAAEBBgAEAQcAIgEHACEBBgAVAQYAAgEGAB0BBgAHAQYAAQEFAB4BBgDhAQYAEwEFAAsBBgAMAQwABQEHACIBBwAhAQYAFAEGAAMBBgAbAQYACAEGAAEBBQAfAQYA4AEGABQBAwAMAQYADAELAAcBBgAjAQcAIAEHABQBBgACAQcAGQEHAAkBCwAfAQcA3wEGACQBBgALAQsABwEGACQBBgAhAQgAEgEGAAMBBwAXAQcACgELACABBwDeAQUAJQEHAAsBCQAJAQQAJgEGAA0BAwARAQgAEgEFAAQBCAATAQgADAEKACEBBwDeAQMAJwEHAAsBBgA1AQYADAEFABEBCAARAQUABQEIABEBCAANAQkAIwEHAP8ACQEHAEYBBgALAQUAEgEHABEBBQAGAQgADwEIAA8BCAAkAQcA/wAJAQcARQEGAAsBHgARAQUABwEIAA0BCAAQAQgAJQEGAP8ACgEGAEYBBQALAR4AEQEGAAcBCgAFAQwAEQEIACYBBQD/AAsBBQBHAQMADAEeABEBBgAJARcAFAEHACYBBQD/AAwBAwBYAR0AEgEFAAoBFQAVAQcAJwEDAP8AagEaABMBBQALARMAFgEGAP8AwgEFAAwBEQAXAQYA/wDDAQMAEAEJAB0BBQD/APwBBQD/AP0BAwD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8AsA=="
+{widgets}
+Start:{"type":"button","size":[192,64],"pos":[160,224],"script":"Title.0","text":"Begin?"}
+
+{script:Title.0}
+on click do
+  go["Next" "BoxIn"]
+end
+{end}
+
+{card:Bedroom}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Bedroom\nThis room is old, everything in it is faded and torn, but orderly. There is a dirty window that overlooks the backyard, and a door that leads to the hallway.\nThe Door has finally unlocked! Time to escape!"}
+button1:{"type":"button","size":[128,32],"pos":[96,224],"script":"Bedroom.0","text":"Window"}
+button2:{"type":"button","size":[128,32],"pos":[288,224],"script":"Bedroom.1","text":"Hallway"}
+
+{script:Bedroom.0}
+on click do
+  go["Bedroom Window" "SlideDown"]
+end
+{end}
+
+{script:Bedroom.1}
+on click do
+  go["Hallway1" "SlideLeft"]
+end
+{end}
+
+{card:Hallway1}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Hallway\nThe hallway goes north and south. The wooden floor is stained and rotten in places. The walls aren't much better with the ocasional hole every once in a while."}
+button1:{"type":"button","size":[128,32],"pos":[96,224],"script":"Hallway1.0","text":"Bedroom"}
+button2:{"type":"button","size":[128,32],"pos":[192,288],"script":"Hallway1.1","text":"South"}
+button3:{"type":"button","size":[128,32],"pos":[288,224],"script":"Hallway1.2","text":"North"}
+
+{script:Hallway1.0}
+on click do
+  go["Bedroom" "SlideRight"]
+end
+{end}
+
+{script:Hallway1.1}
+on click do
+  go["South Hallway" "SlideUp"]
+end
+{end}
+
+{script:Hallway1.2}
+on click do
+  go["North Hallway" "SlideDown"]
+end
+{end}
+
+{card:South Hallway}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Bedroom Hallway South\nThere are three doors down the hallway before it turns east. "}
+button1:{"type":"button","size":[96,32],"pos":[64,224],"script":"South Hallway.0","text":"Bathroom"}
+button2:{"type":"button","size":[96,32],"pos":[209,224],"script":"South Hallway.1","text":"Guest Room"}
+button3:{"type":"button","size":[96,32],"pos":[352,224],"script":"South Hallway.2","text":"Corner Room"}
+button4:{"type":"button","size":[96,32],"pos":[288,288],"script":"South Hallway.3","text":"East"}
+button5:{"type":"button","size":[96,32],"pos":[128,288],"script":"South Hallway.4","text":"North"}
+
+{script:South Hallway.0}
+on click do
+  go["South Room 1" "SlideLeft"]
+end
+{end}
+
+{script:South Hallway.1}
+on click do
+  go["South Room 2" "SlideRight"]
+end
+{end}
+
+{script:South Hallway.2}
+on click do
+  go["South Room 3" "SlideUp"]
+end
+{end}
+
+{script:South Hallway.3}
+on click do
+  go["East Hallway" "SlideLeft"]
+end
+{end}
+
+{script:South Hallway.4}
+on click do
+  go["Hallway1" "SlideDown"]
+end
+{end}
+
+{card:Bedroom Window}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Bedroom Window\nThe Window looks out to an overgrown Hedge Maze in the backyard of the mansion.\nThe Window doesn't open. "}
+Back Up:{"type":"button","size":[128,32],"pos":[192,224],"script":"Bedroom Window.0","text":"Back Up"}
+
+{script:Bedroom Window.0}
+on click do
+  go["Bedroom" "SlideUp"]
+end
+{end}
+
+{card:South Room 1}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Small Bathroom\nThis small bathroom is distusting, the smell alone making it hard to stand within the small enclosed place."}
+button1:{"type":"button","size":[128,32],"pos":[96,224],"script":"South Room 1.0","text":"Bathtub"}
+button2:{"type":"button","size":[128,32],"pos":[288,224],"script":"South Room 1.1","text":"Leave"}
+
+{script:South Room 1.0}
+on click do
+  go["Bathtub" "SlideLeft"]
+end
+{end}
+
+{script:South Room 1.1}
+on click do
+  go["South Hallway" "SlideRight"]
+end
+{end}
+
+{card:Bathtub}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Bathtub\nThere is a large black bag in the bathtub. It's lumpy and takes up the whole tub... It's best to leave it alone."}
+button1:{"type":"button","size":[128,32],"pos":[192,224],"script":"Bathtub.0","text":"Back"}
+
+{script:Bathtub.0}
+on click do
+  go["South Room 1" "BoxIn"]
+end
+{end}
+
+{card:North Hallway}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: North Hallway\nThe hallway continues to be dingy and on the verge of collapse. There are even shards of glass to be found in this section of the hallway. The hallway ends in a door with an elevator entrance to the left of it. "}
+button1:{"type":"button","size":[128,32],"pos":[96,224],"script":"North Hallway.0","text":"Elavator"}
+button2:{"type":"button","size":[128,32],"pos":[288,224],"script":"North Hallway.1","text":"Door"}
+button3:{"type":"button","size":[128,32],"pos":[192,288],"script":"North Hallway.2","text":"South"}
+
+{script:North Hallway.0}
+on click do
+  go["Elavator" "SlideRight"]
+end
+{end}
+
+{script:North Hallway.1}
+on click do
+  go["North Room" "SlideDown"]
+end
+{end}
+
+{script:North Hallway.2}
+on click do
+  go["Hallway1" "SlideUp"]
+end
+{end}
+
+{card:South Room 2}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location:Guest Room\nAnother Bedroom, looks disheveled. It looks like a torando has wrecked the room and thrown everything around. There is also a dirty window in this room."}
+button1:{"type":"button","size":[128,32],"pos":[96,224],"script":"South Room 2.0","text":"Window"}
+button2:{"type":"button","size":[128,32],"pos":[288,224],"script":"South Room 2.1","text":"Leave"}
+
+{script:South Room 2.0}
+on click do
+  go["South Room 2 Window" "SlideRight"]
+end
+{end}
+
+{script:South Room 2.1}
+on click do
+  go["South Hallway" "SlideLeft"]
+end
+{end}
+
+{card:South Room 2 Window}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Window\nThe Window looks out over the large garage on the West side of the house.\nThe Window won't Open"}
+button1:{"type":"button","size":[128,32],"pos":[192,224],"script":"South Room 2 Window.0","text":"Back"}
+
+{script:South Room 2 Window.0}
+on click do
+  go["South Room 2" "SlideLeft"]
+end
+{end}
+
+{card:Elavator}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Elevator\nElevator is not working, and you're not sure you'd trust it even if it did."}
+button1:{"type":"button","size":[128,32],"pos":[192,224],"script":"Elavator.0","text":"Leave"}
+
+{script:Elavator.0}
+on click do
+  go["North Hallway" "SlideLeft"]
+end
+{end}
+
+{card:North Room}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: North Room\nThis room has a map of the hedge maze."}
+button1:{"type":"button","size":[128,32],"pos":[96,224],"script":"North Room.0","text":"Leave"}
+button2:{"type":"button","size":[128,32],"pos":[288,224],"script":"North Room.1","text":"Inspect Map"}
+
+{script:North Room.0}
+on click do
+  go["North Hallway" "SlideUp"]
+end
+{end}
+
+{script:North Room.1}
+on click do
+  go["card2" "SlideDown"]
+end
+{end}
+
+{card:South Room 3}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Corner Room \nDoor is locked!"}
+button1:{"type":"button","size":[128,32],"pos":[192,224],"script":"South Room 3.0","text":"Back"}
+
+{script:South Room 3.0}
+on click do
+  go["South Hallway" "SlideDown"]
+end
+{end}
+
+{card:East Hallway}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: East Hallway\n2 rooms along this stretch of dirty hallway. With Windows looking out front, and stairs leading downward at the end of the hallway."}
+button1:{"type":"button","size":[96,32],"pos":[64,224],"script":"East Hallway.0","text":"Laundry Room"}
+button2:{"type":"button","size":[128,32],"pos":[192,224],"script":"East Hallway.1","text":"Master Bedroom"}
+button3:{"type":"button","size":[96,32],"pos":[352,224],"script":"East Hallway.2","text":"Windows"}
+button4:{"type":"button","size":[96,32],"pos":[288,288],"script":"East Hallway.3","text":"Stairs"}
+button5:{"type":"button","size":[96,32],"pos":[128,288],"script":"South Room 1.1","text":"West"}
+
+{script:East Hallway.0}
+on click do
+  go["East Room 1" "SlideDown"]
+end
+{end}
+
+{script:East Hallway.1}
+on click do
+  go["East Room 2" "SlideDown"]
+end
+{end}
+
+{script:East Hallway.2}
+on click do
+  go["East Windows" "SlideUp"]
+end
+{end}
+
+{script:East Hallway.3}
+on click do
+  go["Stairs" "SlideLeft"]
+end
+{end}
+
+{card:East Room 2}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Master Bedroom\nThis Door is locked!"}
+button1:{"type":"button","size":[128,32],"pos":[192,224],"script":"East Room 2.0","text":"Back"}
+
+{script:East Room 2.0}
+on click do
+  go["East Hallway" "BoxIn"]
+end
+{end}
+
+{card:East Room 1}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Laundry Room\nThis appears to be a laundry room"}
+button1:{"type":"button","size":[128,32],"pos":[96,224],"script":"East Room 1.0","text":"Search"}
+button2:{"type":"button","size":[128,32],"pos":[288,224],"script":"East Room 1.1","text":"Leave"}
+
+{script:East Room 1.0}
+on click do
+  go["East Room 1 Cabinents" "BoxIn"]
+end
+{end}
+
+{script:East Room 1.1}
+on click do
+  go["East Hallway" "SlideUp"]
+end
+{end}
+
+{card:East Room 1 Cabinents}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Cabinents\nIt looks like some detergent or some other cleaning supplies had spilled sometime ago leaving the cabinents sticky and gross."}
+button1:{"type":"button","size":[128,32],"pos":[192,224],"script":"East Room 1 Cabinents.0","text":"Back"}
+
+{script:East Room 1 Cabinents.0}
+on click do
+  go["East Room 1" "BoxIn"]
+end
+{end}
+
+{card:Stairs}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[161,96],"value":"Location: Stairs\nThis stairway is in shambles, with cracked stairs and a broken railing. "}
+button1:{"type":"button","size":[128,32],"pos":[96,224],"script":"Stairs.0","text":"2nd Floor"}
+button2:{"type":"button","size":[128,32],"pos":[288,224],"script":"Stairs.1","text":"1st Floor"}
+
+{script:Stairs.0}
+on click do
+  go["East Hallway" "SlideRight"]
+end
+{end}
+
+{script:Stairs.1}
+on click do
+  go["1st Floor Entry Hall" "SlideLeft"]
+end
+{end}
+
+{card:East Windows}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: East Hallway Windows\nLooks over the round about of a driveway leading to the front door. It's a nice view. The Windows don't open."}
+button1:{"type":"button","size":[128,32],"pos":[192,224],"script":"East Windows.0","text":"Back Up"}
+
+{script:East Windows.0}
+on click do
+  go["East Hallway" "SlideDown"]
+end
+{end}
+
+{card:1st Floor Entry Hall}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Entry Hall\nThis Entry Hall is in ruin, the grand staircase is half collapsed, leaving the Upper East Wing inaccessable. On the first floor there is the grand front door, and 2 different archways leading further into the mansion."}
+button1:{"type":"button","size":[128,32],"pos":[288,224],"script":"1st Floor Entry Hall.0","text":"Front Door"}
+button2:{"type":"button","size":[128,32],"pos":[96,224],"script":"1st Floor Entry Hall.1","text":"2nd Floor West Wing"}
+button3:{"type":"button","size":[128,32],"pos":[96,288],"script":"1st Floor Entry Hall.2","text":"West Archway"}
+button4:{"type":"button","size":[128,32],"pos":[288,288],"script":"1st Floor Entry Hall.3","text":"East Archway"}
+
+{script:1st Floor Entry Hall.0}
+on click do
+  go["Front1" "SlideUp"]
+end
+{end}
+
+{script:1st Floor Entry Hall.1}
+on click do
+  go["Stairs" "SlideRight"]
+end
+{end}
+
+{script:1st Floor Entry Hall.2}
+on click do
+  go["East  Room" "SlideRight"]
+end
+{end}
+
+{script:1st Floor Entry Hall.3}
+on click do
+  go["West Room" "SlideLeft"]
+end
+{end}
+
+{card:Front1}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Front Door\nLocked! These large double doors aren't budging no matter how hard you try!"}
+button1:{"type":"button","size":[128,32],"pos":[192,224],"script":"Front1.0","text":"Back"}
+
+{script:Front1.0}
+on click do
+  go["1st Floor Entry Hall" "SlideDown"]
+end
+{end}
+
+{card:East  Room}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Living Room\nThe Living Room is filled with broken and overturned furniture. A cracked TV hangs crookedly off of one wall. There is a door to the Garage, another door to a Back Room, the Archway back to the Entry Hall, and a Dirty Window looking out the front of the building."}
+button1:{"type":"button","size":[96,32],"pos":[128,224],"script":"Stairs.1","text":"Archway"}
+button2:{"type":"button","size":[96,32],"pos":[288,224],"script":"East  Room.0","text":"Garage"}
+button3:{"type":"button","size":[96,32],"pos":[128,288],"script":"East  Room.1","text":"Back Room"}
+button4:{"type":"button","size":[96,32],"pos":[288,288],"script":"East  Room.2","text":"Window"}
+
+{script:East  Room.0}
+on click do
+  go["Garage" "SlideRight"]
+end
+{end}
+
+{script:East  Room.1}
+on click do
+  go["Back Room" "SlideDown"]
+end
+{end}
+
+{script:East  Room.2}
+on click do
+  go["Living Room Window" "SlideUp"]
+end
+{end}
+
+{card:West Room}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Dinning Room\nThis room is dominated by a large dinner table which is broken in half. There is a door leading to the kitchen, the archway leading to the Entry Hall, and a bay of dirty windows. "}
+button1:{"type":"button","size":[96,32],"pos":[128,224],"script":"West Room.0","text":"Archway"}
+button2:{"type":"button","size":[96,32],"pos":[288,224],"script":"West Room.1","text":"Kitchen"}
+button3:{"type":"button","size":[128,32],"pos":[192,288],"script":"West Room.2","text":"Window"}
+
+{script:West Room.0}
+on click do
+  go["1st Floor Entry Hall" "SlideRight"]
+end
+{end}
+
+{script:West Room.1}
+on click do
+  go["Kitchen" "SlideDown"]
+end
+{end}
+
+{script:West Room.2}
+on click do
+  go["Dinning Room Window" "SlideUp"]
+end
+{end}
+
+{card:Garage}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Garage\nThe door is blocked and won't open more than an inch. Glancing in, it looks like there is a car blocking the door."}
+button1:{"type":"button","size":[128,32],"pos":[192,224],"script":"Garage.0","text":"Back"}
+
+{script:Garage.0}
+on click do
+  go["East  Room" "SlideLeft"]
+end
+{end}
+
+{card:Living Room Window}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Living Room Window\nIt is hard to see anything through this dirty and cracked window, primarily because of some felled tree leaning into the building and blocking the window."}
+button1:{"type":"button","size":[128,32],"pos":[192,224],"script":"Living Room Window.0","text":"Back"}
+
+{script:Living Room Window.0}
+on click do
+  go["East  Room" "SlideDown"]
+end
+{end}
+
+{card:Back Room}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Back Room\nThis back room looks like it was used as some sort of home gym, though all the equipment is broken now. There is a door that leads outside, and the door leading to the living room"}
+button1:{"type":"button","size":[96,32],"pos":[128,224],"script":"Back Room.0","text":"Living Room"}
+button2:{"type":"button","size":[96,32],"pos":[288,224],"script":"Back Room.1","text":"Back Door"}
+
+{script:Back Room.0}
+on click do
+  go["East  Room" "SlideUp"]
+end
+{end}
+
+{script:Back Room.1}
+on click do
+  go["HM West Entrance" "SlideDown"]
+end
+{end}
+
+{card:Dinning Room Window}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Dinning Room Windows\nThese dirty and cracked windows are hard to look through, largely obscured by tall grass and overgrown bushes. "}
+button1:{"type":"button","size":[128,32],"pos":[192,224],"script":"Dinning Room Window.0","text":"Back"}
+
+{script:Dinning Room Window.0}
+on click do
+  go["West Room" "SlideDown"]
+end
+{end}
+
+{card:Kitchen}
+image:"%%IMG2AgABVgL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8C/wL/Av8Crg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Kitchen\nThe smell of rotten food permeates the room.  The room has two doors, one leading to the Dinning Room and another leading outside. "}
+button1:{"type":"button","size":[96,32],"pos":[128,224],"script":"Kitchen.0","text":"Dinning Room"}
+button2:{"type":"button","size":[96,32],"pos":[288,224],"script":"Kitchen.1","text":"Back Door"}
+
+{script:Kitchen.0}
+on click do
+  go["West Room" "SlideUp"]
+end
+{end}
+
+{script:Kitchen.1}
+on click do
+  go["HM East Entrance" "SlideDown"]
+end
+{end}
+
+{card:HM East Entrance}
+image:"%%IMG2AgABVhn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xkbAQMZ/xn9AQUZ/xn7AQcZ/xn6AQcZ/xn6AQcZ/xn7AQUZ/xn9AQMZ/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/GYQ="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Hedge Maze East Entrance"}
+button1:{"type":"button","size":[96,32],"pos":[128,224],"script":"HM East Entrance.0","text":"Inside"}
+button2:{"type":"button","size":[96,32],"pos":[288,224],"script":"HM East Entrance.1","text":"Enter Maze"}
+
+{script:HM East Entrance.0}
+on click do
+  go["Kitchen" "SlideUp"]
+end
+{end}
+
+{script:HM East Entrance.1}
+on click do
+  go["East1" "SlideDown"]
+end
+{end}
+
+{card:HM West Entrance}
+image:"%%IMG2AgABVhn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Z/xn/Gf8Zrg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Hedge Maze West Entrance"}
+button1:{"type":"button","size":[96,32],"pos":[128,224],"script":"HM West Entrance.0","text":"Inside"}
+button2:{"type":"button","size":[96,32],"pos":[288,224],"script":"HM West Entrance.1","text":"Enter Maze"}
+
+{script:HM West Entrance.0}
+on click do
+  go["Back Room" "SlideUp"]
+end
+{end}
+
+{script:HM West Entrance.1}
+on click do
+  go["West1" "SlideDown"]
+end
+{end}
+
+{card:card2}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AFkBwwAdAeMAPAHFABsB5QA6AccAGQHnADkBxwAZAecAOQHHABkB5wA5AccAGQHnADkBxwAZAecAOQEHALkBBwQZAQcE2QEHADkBBwC5AQcEGQEHBNkBBwA5AQcAuQEHBBkBBwTZAQcAOQEHALkBBwQZAQcE2QEHADkBBwC5AQcEGQEHBNkBBwA5AQcAuQEHBBkBBwTZAQcAOQEHALkBBwQZAQcE2QEHADkBBwC5AQcEGQEHBNkBBwA5AQcAuQEHBBkBBwTZAQcAOQEHALkBBwQZAQcE2QEHADkBBwC5AQcEGQEHBNkBBwA5AQcAuQEHBBkBBwTZAQcAOQEHALkBBwQZAQcE2QEHADkBBwC5AQcEGQEHBNkBBwA5AQcAuQEHBBkBBwTZAQcAOQEHALkBBwQZAQcE2QEHADkBBwC5AQcEGQEHBNkBBwA5AQcAuQEHBBkBBwTZAQcAOQEHALkBBwQZAQcE2QEHADkBBwC5AQcEGQEHBNkBBwA5AQcAuQEHBBkBBwTZAQcAOQEHALkBBwQZAQcE2QEHADkBBwC5AQcEGQEHBNkBBwA5AQcAuQEHBBkBBwTZAQcAOQEHALkBBwQZAQcE2QEHADkBBwAbAUMAHQEDAB0BAwAbAQcEGQFFBB0BQwQdAQMEGwEHADkBBwAaAUUAGwEFABsBBQAaAQcEGQFGBBsBRQQbAQUEGgEHADkBBwAZAUcAGQEHABkBBwAZAQcEGQFHBBkBRwQZAQcEGQEHADkBBwAZAUcAGQEHABkBBwAZAQcEGQFHBBkBRwQZAQcEGQEHADkBBwAZAUcAGQEHABkBBwAZAQcEGQFHBBkBRwQZAQcEGQEHADkBBwAaAUYAGQEHABkBBwAZAQcEGgFFBBsBRgQZAQcEGQEHADkBBwAbAUUAGQEHABkBBwAZAQcEGwFDBB0BRQQZAQcEGQEHADkBBwBZAQcAGQEHABkBBwAZAQcEuQEHBBkBBwQZAQcAOQEHAFkBBwAZAQcAGQEHABkBBwS5AQcEGQEHBBkBBwA5AQcAWQEHABkBBwAZAQcAGQEHBLkBBwQZAQcEGQEHADkBBwBZAQcAGQEHABkBBwAZAQcEuQEHBBkBBwQZAQcAOQEHAFkBBwAZAQcAGQEHABkBBwS5AQcEGQEHBBkBBwA5AQcAWQEHABkBBwAZAQcAGQEHBLkBBwQZAQcEGQEHADkBBwBZAQcAGQEHABkBBwAZAQcEuQEHBBkBBwQZAQcAOQEHAFkBBwAZAQcAGQEHABkBBwS5AQcEGQEHBBkBBwA5AQcAWQEHABkBBwAZAQcAGQEHBLkBBwQZAQcEGQEHADkBBwBZAQcAGQEHABkBBwAZAQcEuQEHBBkBBwQZAQcAOQEHAFkBBwAZAQcAGQEHABkBBwS5AQcEGQEHBBkBBwA5AQcAWQEHABkBBwAZAQcAGQEHBLkBBwQZAQcEGQEHADkBBwBZAQcAGQEHABkBBwAZAQcEuQEHBBkBBwQZAQcAOQEHAFkBBwAZAQcAGQEHABkBBwS5AQcEGQEHBBkBBwA5AQcAWQEHABkBBwAZAQcAGQEHBLkBBwQZAQcEGQEHADkBBwBZAQcAGQEHABkBBwAZAQcEuQEHBBkBBwQZAQcAOQEHAFkBBwAZAQcAGQEHABkBBwS5AQcEGQEHBBkBBwA5AQcAWQEHABkBBwAZAQcAGQEHBLkBBwQZAQcEGQEHADkBBwBZAQcAGQEHABkBBwAZAQcEuQEHBBkBBwQZAQcAOQEHAFkBBwAZAQcAGQEHABkBBwS5AQcEGQEHBBkBBwA5AQcAWQEHABkBBwAZAQcAGQEHBLkBBwQZAQcEGQEHADkBBwBZAQcAGQEHABkBBwAZAQcEuQEHBBkBBwQZAQcAOQEHAFkBBwAZAQcAGQEHABkBBwS5AQcEGQEHBBkBBwA5AQcAWQEHABkBBwAZAQcAGQEHBLkBBwQZAQcEGQEHADkBBwBZAQcAGQEHABkBBwAZAQcEuQEHBBkBBwQZAQcAOQEHABsBIwAbAQcAGQEHABkBBwAZAaUEGwEHBBkBBwQZAQcAOQEHABoBJQAaAQcAGQEHABkBBwAZAaYEGgEHBBkBBwQZAQcAOQEHABkBJwAZAQcAGQEHABkBBwAZAacEGQEHBBkBBwQZAQcAOQEHABkBJwAZAQcAGQEHABkBBwAZAacEGQEHBBkBBwQZAQcAOQEHABkBJwAZAQcAGQEHABkBBwAZAacEGQEHBBkBBwQZAQcAOQEHABoBJgAZAQcAGQEHABkBBwAaAaYEGQEHBBkBBwQZAQcAOQEHABsBJQAZAQcAGQEHABkBBwAbAaUEGQEHBBkBBwQZAQcAOQEHADkBBwAZAQcAGQEHABkBBwBZAQcEWQEHBBkBBwQZAQcEGQEHADkBBwA5AQcAGQEHABkBBwAZAQcAWQEHBFkBBwQZAQcEGQEHBBkBBwA5AQcAOQEHABkBBwAZAQcAGQEHAFkBBwRZAQcEGQEHBBkBBwQZAQcAOQEHADkBBwAZAQcAGQEHABkBBwBZAQcEWQEHBBkBBwQZAQcEGQEHADkBBwA5AQcAGQEHABkBBwAZAQcAWQEHBFkBBwQZAQcEGQEHBBkBBwA5AQcAOQEHABkBBwAZAQcAGQEHAFkBBwRZAQcEGQEHBBkBBwQZAQcAOQEHADkBBwAZAQcAGQEHABkBBwBZAQcEWQEHBBkBBwQZAQcEGQEHADkBBwA5AQcAGQEHABkBBwAZAQcAWQEHBFkBBwQZAQcEGQEHBBkBBwA5AQcAOQEHABkBBwAZAQcAGQEHAFkBBwRZAQcEGQEHBBkBBwQZAQcAOQEHADkBBwAZAQcAGQEHABkBBwBZAQcEWQEHBBkBBwQZAQcEGQEHADkBBwA5AQcAGQEHABkBBwAZAQcAWQEHBFkBBwQZAQcEGQEHBBkBBwA5AQcAOQEHABkBBwAZAQcAGQEHAFkBBwRZAQcEGQEHBBkBBwQZAQcAOQEHADkBBwAZAQcAGQEHABkBBwBZAQcEWQEHBBkBBwQZAQcEGQEHADkBBwA5AQcAGQEHABkBBwAZAQcAWQEHBFkBBwQZAQcEGQEHBBkBBwA5AQcAOQEHABkBBwAZAQcAGQEHAFkBBwRZAQcEGQEHBBkBBwQZAQcAOQEHADkBBwAZAQcAGQEHABkBBwBZAQcEWQEHBBkBBwQZAQcEGQEHADkBBwA5AQcAGQEHABkBBwAZAQcAWQEHBFkBBwQZAQcEGQEHBBkBBwA5AQcAOQEHABkBBwAZAQcAGQEHAFkBBwRZAQcEGQEHBBkBBwQZAQcAOQEHADkBBwAZAQcAGQEHABkBBwBZAQcEWQEHBBkBBwQZAQcEGQEHADkBBwA5AQcAGQEHABkBBwAZAQcAWQEHBFkBBwQZAQcEGQEHBBkBBwA5AQcAOQEHABkBBwAZAQcAGQEHAFkBBwRZAQcEGQEHBBkBBwQZAQcAOQEHADkBBwAZAQcAGQEHABkBBwBZAQcEWQEHBBkBBwQZAQcEGQEHADkBBwA5AQcAGQEHABkBBwAZAQcAWQEHBFkBBwQZAQcEGQEHBBkBBwA5AQcAOQEHABkBBwAZAQcAGQEHAFkBBwRZAQcEGQEHBBkBBwQZAQcAOQEHADkBBwAZAQcAGQEHABkBBwBZAQcEWQEHBBkBBwQZAQcEGQEHADkBJQAbAQcAGQEHABkBRQAdASUEGwEjBBsBBwQZAQcEGQEHBBkBBwA5ASYAGgEHABkBBwAZAUYAGwEmBBoBJQQaAQcEGQEHBBkBBwQZAQcAOQEnABkBBwAZAQcAGQFHABkBJwQZAScEGQEHBBkBBwQZAQcEGQEHADkBJwAZAQcAGQEHABkBRwAZAScEGQEnBBkBBwQZAQcEGQEHBBkBBwA5AScAGQEHABkBBwAZAUcAGQEnBBkBJwQZAQcEGQEHBBkBBwQZAQcAOQEnABkBBwAZAQcAGgFFABsBJgQaASYEGQEHBBkBBwQZAQcEGQEHADkBJwAZAQcAGQEHABsBQwAdASUEGwElBBkBBwQZAQcEGQEHBBkBBwA5AQcAGQEHABkBBwAZAQcAmQEHBDkBBwQZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwAZAQcAGQEHAJkBBwQ5AQcEGQEHBBkBBwQZAQcEGQEHADkBBwAZAQcAGQEHABkBBwCZAQcEOQEHBBkBBwQZAQcEGQEHBBkBBwA5AQcAGQEHABkBBwAZAQcAmQEHBDkBBwQZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwAZAQcAGQEHAJkBBwQ5AQcEGQEHBBkBBwQZAQcEGQEHADkBBwAZAQcAGQEHABkBBwCZAQcEOQEHBBkBBwQZAQcEGQEHBBkBBwA5AQcAGQEHABkBBwAZAQcAmQEHBDkBBwQZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwAZAQcAGQEHAJkBBwQ5AQcEGQEHBBkBBwQZAQcEGQEHADkBBwAZAQcAGQEHABkBBwCZAQcEOQEHBBkBBwQZAQcEGQEHBBkBBwA5AQcAGQEHABkBBwAZAQcAmQEHBDkBBwQZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwAZAQcAGQEHAJkBBwQ5AQcEGQEHBBkBBwQZAQcEGQEHADkBBwAZAQcAGQEHABkBBwCZAQcEOQEHBBkBBwQZAQcEGQEHBBkBBwA5AQcAGQEHABkBBwAZAQcAmQEHBDkBBwQZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwAZAQcAGQEHAJkBBwQ5AQcEGQEHBBkBBwQZAQcEGQEHADkBBwAZAQcAGQEHABkBBwCZAQcEOQEHBBkBBwQZAQcEGQEHBBkBBwA5AQcAGQEHABkBBwAZAQcAmQEHBDkBBwQZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwAZAQcAGQEHAJkBBwQ5AQcEGQEHBBkBBwQZAQcEGQEHADkBBwAZAQcAGQEHABkBBwCZAQcEOQEHBBkBBwQZAQcEGQEHBBkBBwA5AQcAGQEHABkBBwAZAQcAmQEHBDkBBwQZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwAZAQcAGQEHAJkBBwQ5AQcEGQEHBBkBBwQZAQcEGQEHADkBBwAZAQcAGQEHABkBBwCZAQcEOQEHBBkBBwQZAQcEGQEHBBkBBwA5AQcAGQEHABkBBwAZAQcAmQEHBDkBBwQZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwAZAQcAGQEHAJkBBwQ5AQcEGQEHBBkBBwQZAQcEGQEHADkBBwAZAQcAGQEHABkBBwCZAQcEOQEHBBkBBwQZAQcEGQEHBBkBBwA5AQcAGQEHABkBBwAZAQcAmQEHBDkBBwQZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwAZAQcAGQGFABsBJQQbAQcEGQFHBBkBBwA5AQcAGQEHABkBBwAZAYYAGgEmBBoBBwQZAUcEGQEHADkBBwAZAQcAGQEHABkBhwAZAScEGQEHBBkBRwQZAQcAOQEHABkBBwAZAQcAGQGHABkBJwQZAQcEGQFHBBkBBwA5AQcAGQEHABkBBwAZAYcAGQEnBBkBBwQZAUcEGQEHADkBBwAZAQcAGQEHABoBhgAaASYEGQEHBBoBRQQaAQcAOQEHABkBBwAZAQcAGwGFABsBJQQZAQcEGwFDBBsBBwA5AQcAGQEHABkBBwBZAQcAOQEHADkBBwQZAQcEeQEHADkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHBBkBBwR5AQcAOQEHABkBBwAZAQcAWQEHADkBBwA5AQcEGQEHBHkBBwA5AQcAGQEHABkBBwBZAQcAOQEHADkBBwQZAQcEeQEHADkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHBBkBBwR5AQcAOQEHABkBBwAZAQcAWQEHADkBBwA5AQcEGQEHBHkBBwA5AQcAGQEHABkBBwBZAQcAOQEHADkBBwQZAQcEeQEHADkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHBBkBBwR5AQcAOQEHABkBBwAZAQcAWQEHADkBBwA5AQcEGQEHBHkBBwA5AQcAGQEHABkBBwBZAQcAOQEHADkBBwQZAQcEeQEHADkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHBBkBBwR5AQcAOQEHABkBBwAZAQcAWQEHADkBBwA5AQcEGQEHBHkBBwA5AQcAGQEHABkBBwBZAQcAOQEHADkBBwQZAQcEeQEHADkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHBBkBBwR5AQcAOQEHABkBBwAZAQcAWQEHADkBBwA5AQcEGQEHBHkBBwA5AQcAGQEHABkBBwBZAQcAOQEHADkBBwQZAQcEeQEHADkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHBBkBBwR5AQcAOQEHABkBBwAZAQcAWQEHADkBBwA5AQcEGQEHBHkBBwA5AQcAGQEHABkBBwBZAQcAOQEHADkBBwQZAQcEeQEHADkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHBBkBBwR5AQcAOQEHABkBBwAZAQcAWQEHADkBBwA5AQcEGQEHBHkBBwA5AQcAGQEHABkBBwBZAQcAOQEHADkBBwQZAQcEeQEHADkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHBBkBBwR5AQcAOQEHABkBBwAZAQcAWQEHADkBBwA5AQcEGQEHBHkBBwA5AQcAGQEHABkBBwBZAQcAOQEHADkBBwQZAQcEeQEHADkBBwAZAWUAGwEHABsBAwAbASUAGwEHBBkBhwA5AQcAGQFmABoBBwAaAQUAGgEmABoBBwQZAYcAOQEHABkBZwAZAQcAGQEHABkBJwAZAQcEGQGHADkBBwAZAWcAGQEHABkBBwAZAScAGQEHBBkBhwA5AQcAGQFnABkBBwAZAQcAGQEnABkBBwQZAYcAOQEHABoBZgAZAQcAGQEHABoBJQAaAQcEGgGGADkBBwAbAWUAGQEHABkBBwAbASMAGwEHBBsBhQA5AQcAeQEHABkBBwAZAQcAWQEHBFkBBwQ5AQcAOQEHAHkBBwAZAQcAGQEHAFkBBwRZAQcEOQEHADkBBwB5AQcAGQEHABkBBwBZAQcEWQEHBDkBBwA5AQcAeQEHABkBBwAZAQcAWQEHBFkBBwQ5AQcAOQEHAHkBBwAZAQcAGQEHAFkBBwRZAQcEOQEHADkBBwB5AQcAGQEHABkBBwBZAQcEWQEHBDkBBwA5AQcAeQEHABkBBwAZAQcAWQEHBFkBBwQ5AQcAOQEHAHkBBwAZAQcAGQEHAFkBBwRZAQcEOQEHADkBBwB5AQcAGQEHABkBBwBZAQcEWQEHBDkBBwA5AQcAeQEHABkBBwAZAQcAWQEHBFkBBwQ5AQcAOQEHAHkBBwAZAQcAGQEHAFkBBwRZAQcEOQEHADkBBwB5AQcAGQEHABkBBwBZAQcEWQEHBDkBBwA5AQcAeQEHABkBBwAZAQcAWQEHBFkBBwQ5AQcAOQEHAHkBBwAZAQcAGQEHAFkBBwRZAQcEOQEHADkBBwB5AQcAGQEHABkBBwBZAQcEWQEHBDkBBwA5AQcAeQEHABkBBwAZAQcAWQEHBFkBBwQ5AQcAOQEHAHkBBwAZAQcAGQEHAFkBBwRZAQcEOQEHADkBBwB5AQcAGQEHABkBBwBZAQcEWQEHBDkBBwA5AQcAeQEHABkBBwAZAQcAWQEHBFkBBwQ5AQcAOQEHAHkBBwAZAQcAGQEHAFkBBwRZAQcEOQEHADkBBwB5AQcAGQEHABkBBwBZAQcEWQEHBDkBBwA5AQcAeQEHABkBBwAZAQcAWQEHBFkBBwQ5AQcAOQEHAHkBBwAZAQcAGQEHAFkBBwRZAQcEOQEHADkBBwB5AQcAGQEHABkBBwBZAQcEWQEHBDkBBwA5AQcAeQEHABkBBwAZAQcAWQEHBFkBBwQ5AQcAOQEHABsBQwAbAQcAGQEHABkBJQAdAWMEGwEHBBsBAwQbAQcAOQEHABoBRQAaAQcAGQEHABkBJgAbAWUEGgEHBBoBBQQaAQcAOQEHABkBRwAZAQcAGQEHABkBJwAZAWcEGQEHBBkBBwQZAQcAOQEHABkBRwAZAQcAGQEHABkBJwAZAWcEGQEHBBkBBwQZAQcAOQEHABkBRwAZAQcAGQEHABkBJwAZAWcEGQEHBBkBBwQZAQcAOQEHABkBRgAbAQUAGgEHABoBJgAZAWcEGQEHBBkBBwQZAQcAOQEHABkBRQAdAQMAGwEHABsBJQAZAWcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwB5AQcAOQEHABkBBwBZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwAbAWUAGwEDABsBBwAZAQcAGwEjABsBBwQZAQcEGQEHBBkBBwA5AQcAGQEHABoBZgAaAQUAGgEHABkBBwAaASUAGgEHBBkBBwQZAQcEGQEHADkBBwAZAQcAGQFnABkBBwAZAQcAGQEHABkBJwAZAQcEGQEHBBkBBwQZAQcAOQEHABkBBwAZAWcAGQEHABkBBwAZAQcAGQEnABkBBwQZAQcEGQEHBBkBBwA5AQcAGQEHABkBZwAZAQcAGQEHABkBBwAZAScAGQEHBBkBBwQZAQcEGQEHADkBBwAZAQcAGQFmABoBBwAZAQcAGQEHABoBJgAZAQcEGgEFBBoBBwQZAQcAOQEHABkBBwAZAWUAGwEHABkBBwAZAQcAGwElABkBBwQbAQMEGwEHBBkBBwA5AQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHBDkBBwQZAQcAOQEHABkBBwAZAQcAeQEHABkBBwAZAQcAOQEHABkBBwQ5AQcEGQEHADkBBwAZAQcAGQEHAHkBBwAZAQcAGQEHADkBBwAZAQcEOQEHBBkBBwA5AQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHBDkBBwQZAQcAOQEHABkBBwAZAQcAeQEHABkBBwAZAQcAOQEHABkBBwQ5AQcEGQEHADkBBwAZAQcAGQEHAHkBBwAZAQcAGQEHADkBBwAZAQcEOQEHBBkBBwA5AQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHBDkBBwQZAQcAOQEHABkBBwAZAQcAeQEHABkBBwAZAQcAOQEHABkBBwQ5AQcEGQEHADkBBwAZAQcAGQEHAHkBBwAZAQcAGQEHADkBBwAZAQcEOQEHBBkBBwA5AQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHBDkBBwQZAQcAOQEHABkBBwAZAQcAeQEHABkBBwAZAQcAOQEHABkBBwQ5AQcEGQEHADkBBwAZAQcAGQEHAHkBBwAZAQcAGQEHADkBBwAZAQcEOQEHBBkBBwA5AQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHBDkBBwQZAQcAOQEHABkBBwAZAQcAeQEHABkBBwAZAQcAOQEHABkBBwQ5AQcEGQEHADkBBwAZAQcAGQEHAHkBBwAZAQcAGQEHADkBBwAZAQcEOQEHBBkBBwA5AQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHBDkBBwQZAQcAOQEHABkBBwAZAQcAeQEHABkBBwAZAQcAOQEHABkBBwQ5AQcEGQEHADkBBwAZAQcAGQEHAHkBBwAZAQcAGQEHADkBBwAZAQcEOQEHBBkBBwA5AQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHBDkBBwQZAQcAOQEHABkBBwAZAQcAeQEHABkBBwAZAQcAOQEHABkBBwQ5AQcEGQEHADkBBwAZAQcAGQEHAHkBBwAZAQcAGQEHADkBBwAZAQcEOQEHBBkBBwA5AQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHBDkBBwQZAQcAOQEHABkBBwAZAQcAeQEHABkBBwAZAQcAOQEHABkBBwQ5AQcEGQEHADkBBwAZAQcAGQEHAHkBBwAZAQcAGQEHADkBBwAZAQcEOQEHBBkBBwA5AQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHBDkBBwQZAQcAOQEHABkBBwAZAQcAGwFlABkBZwAZAUcEGQEHADkBBwAZAQcAGQEHABoBZgAZAWcAGQFHBBkBBwA5AQcAGQEHABkBBwAZAWcAGQFnABkBRwQZAQcAOQEHABkBBwAZAQcAGQFnABkBZwAZAUcEGQEHADkBBwAZAQcAGQEHABkBZwAZAWcAGQFHBBkBBwA5AQcAGQEHABoBBQAaAWYAGwFlABoBRgQaAQcAOQEHABkBBwAbAQMAGwFlAB0BYwAbAUUEGwEHADkBBwAZAQcAOQEHAPkBBwRZAQcAOQEHABkBBwA5AQcA+QEHBFkBBwA5AQcAGQEHADkBBwD5AQcEWQEHADkBBwAZAQcAOQEHAPkBBwRZAQcAOQEHABkBBwA5AQcA+QEHBFkBBwA5AQcAGQEHADkBBwD5AQcEWQEHADkBBwAZAQcAOQEHAPkBBwRZAQcAOQEHABkBBwA5AQcA+QEHBFkBBwA5AQcAGQEHADkBBwD5AQcEWQEHADkBBwAZAQcAOQEHAPkBBwRZAQcAOQEHABkBBwA5AQcA+QEHBFkBBwA5AQcAGQEHADkBBwD5AQcEWQEHADkBBwAZAQcAOQEHAPkBBwRZAQcAOQEHABkBBwA5AQcA+QEHBFkBBwA5AQcAGQEHADkBBwD5AQcEWQEHADkBBwAZAQcAOQEHAPkBBwRZAQcAOQEHABkBBwA5AQcA+QEHBFkBBwA5AQcAGQEHADkBBwD5AQcEWQEHADkBBwAZAQcAOQEHAPkBBwRZAQcAOQEHABkBBwA5AQcA+QEHBFkBBwA5AQcAGQEHADkBBwD5AQcEWQEHADkBBwAZAQcAOQEHAPkBBwRZAQcAOQEHABkBBwA5AQcA+QEHBFkBBwA5AQcAGQEHADkBBwD5AQcEWQEHADkBBwAZAQcAOQEHAPkBBwRZAQcAOQEHABkB/wGGBBsBBwA5AQcAGQH/AYcEGgEHADkBBwAZAf8BiAQZAQcAOQEHABkB/wGIBBkBBwA5AQcAGQH/AYgEGQEHADkBBwAZAf8BiAQZAQcAOQEHABkB/wGIBBkBBwA5AQcAGQEHAP8AegEHBBkBBwA5AQcAGQEHAP8AegEHBBkBBwA5AQcAGQEHAP8AegEHBBkBBwA5AQcAGQEHAP8AegEHBBkBBwA5AQcAGQEHAP8AegEHBBkBBwA5AQcAGQEHAP8AegEHBBkBBwA5AQcAGQEHAP8AegEHBBkBBwA5AQcAGQEHAP8AegEHBBkBBwA5AQcAGQEHAP8AegEHBBkBBwA5AQcAGQEHAP8AegEHBBkBBwA5AQcAGQEHAP8AegEHBBkBBwA5AQcAGQEHAP8AegEHBBkBBwA5AQcAGQEHAP8AegEHBBkBBwA5AQcAGQEHAP8AegEHBBkBBwA5AQcAGQEHAP8AegEHBBkBBwA5AQcAGQEHAP8AegEHBBkBBwA5AQcAGQEHAP8AegEHBBkBBwA5AQcAGQEHAP8AegEHBBkBBwAc"
+{widgets}
+button1:{"type":"button","size":[64,32],"pos":[224,288],"script":"card2.0","text":"Back","style":"invisible"}
+
+{script:card2.0}
+on click do
+  go["North Room" "SlideUp"]
+end
+{end}
+
+{card:Maze Left Side}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8Arg=="
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Maze West Side\nDead Ends!"}
+
+{card:card3}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AFkBwwD/AD0BxQD/ADsBxwD/ADoBxwD/ADoBxwD/ADoBxwD/ADoBxwD/ADoBBwC5AQcA/wA6AQcAuQEHAP8AOgEHALkBBwD/ADoBBwC5AQcA/wA6AQcAuQEHAP8AOgEHALkBBwD/ADoBBwC5AQcA/wA6AQcAuQEHAP8AOgEHALkBBwD/ADoBBwC5AQcA/wA6AQcAuQEHAP8AOgEHALkBBwD/ADoBBwC5AQcA/wA6AQcAuQEHAP8AOgEHALkBBwD/ADoBBwC5AQcA/wA6AQcAuQEHAP8AOgEHALkBBwD/ADoBBwC5AQcA/wA6AQcAuQEHAP8AOgEHALkBBwD/ADoBBwC5AQcA/wA6AQcAuQEHAP8AOgEHALkBBwD/ADoBBwC5AQcA/wA6AQcAGwFDAB0BAwAdAQMAGwEHAP8AOgEHABoBRQAbAQUAGwEFABoBBwD/ADoBBwAZAUcAGQEHABkBBwAZAQcA/wA6AQcAGQFHABkBBwAZAQcAGQEHAP8AOgEHABkBRwAZAQcAGQEHABkBBwD/ADoBBwAaAUYAGQEHABkBBwAZAQcA/wA6AQcAGwFFABkBBwAZAQcAGQEHAP8AOgEHAFkBBwAZAQcAGQEHABkBBwD/ADoBBwBZAQcAGQEHABkBBwAZAQcA/wA6AQcAWQEHABkBBwAZAQcAGQEHAP8AOgEHAFkBBwAZAQcAGQEHABkBBwD/ADoBBwBZAQcAGQEHABkBBwAZAQcA/wA6AQcAWQEHABkBBwAZAQcAGQEHAP8AOgEHAFkBBwAZAQcAGQEHABkBBwD/ADoBBwBZAQcAGQEHABkBBwAZAQcA/wA6AQcAWQEHABkBBwAZAQcAGQEHAP8AOgEHAFkBBwAZAQcAGQEHABkBBwD/ADoBBwBZAQcAGQEHABkBBwAZAQcA/wA6AQcAWQEHABkBBwAZAQcAGQEHAP8AOgEHAFkBBwAZAQcAGQEHABkBBwD/ADoBBwBZAQcAGQEHABkBBwAZAQcA/wA6AQcAWQEHABkBBwAZAQcAGQEHAP8AOgEHAFkBBwAZAQcAGQEHABkBBwD/ADoBBwBZAQcAGQEHABkBBwAZAQcA/wA6AQcAWQEHABkBBwAZAQcAGQEHAP8AOgEHAFkBBwAZAQcAGQEHABkBBwD/ADoBBwBZAQcAGQEHABkBBwAZAQcA/wA6AQcAWQEHABkBBwAZAQcAGQEHAP8AOgEHAFkBBwAZAQcAGQEHABkBBwD/ADoBBwBZAQcAGQEHABkBBwAZAQcA/wA6AQcAWQEHABkBBwAZAQcAGQEHAP8AOgEHAFkBBwAZAQcAGQEHABkBBwD/ADoBBwAbASMAGwEHABkBBwAZAQcAGQFFAPsBBwAaASUAGgEHABkBBwAZAQcAGQFGAPoBBwAZAScAGQEHABkBBwAZAQcAGQFHAPkBBwAZAScAGQEHABkBBwAZAQcAGQFHAPkBBwAZAScAGQEHABkBBwAZAQcAGQFHAPkBBwAaASYAGQEHABkBBwAZAQcAGgFGAPkBBwAbASUAGQEHABkBBwAZAQcAGwFFAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBBwA5AQcAGQEHABkBBwAZAQcAWQEHAPkBJQAbAQcAGQEHABkBRQAdASUA+QEmABoBBwAZAQcAGQFGABsBJgD5AScAGQEHABkBBwAZAUcAGQEnAPkBJwAZAQcAGQEHABkBRwAZAScA+QEnABkBBwAZAQcAGQFHABkBJwD5AScAGQEHABkBBwAaAUUAGwEmAPkBJwAZAQcAGQEHABsBQwAdASUA+QEHABkBBwAZAQcAGQEHAJkBBwD5AQcAGQEHABkBBwAZAQcAmQEHAPkBBwAZAQcAGQEHABkBBwCZAQcA+QEHABkBBwAZAQcAGQEHAJkBBwD5AQcAGQEHABkBBwAZAQcAmQEHAPkBBwAZAQcAGQEHABkBBwCZAQcA+QEHABkBBwAZAQcAGQEHAJkBBwD5AQcAGQEHABkBBwAZAQcAmQEHAPkBBwAZAQcAGQEHABkBBwCZAQcA+QEHABkBBwAZAQcAGQEHAJkBBwD5AQcAGQEHABkBBwAZAQcAmQEHAPkBBwAZAQcAGQEHABkBBwCZAQcA+QEHABkBBwAZAQcAGQEHAJkBBwD5AQcAGQEHABkBBwAZAQcAmQEHAPkBBwAZAQcAGQEHABkBBwCZAQcA+QEHABkBBwAZAQcAGQEHAJkBBwD5AQcAGQEHABkBBwAZAQcAmQEHAPkBBwAZAQcAGQEHABkBBwCZAQcA+QEHABkBBwAZAQcAGQEHAJkBBwD5AQcAGQEHABkBBwAZAQcAmQEHAPkBBwAZAQcAGQEHABkBBwCZAQcA+QEHABkBBwAZAQcAGQEHAJkBBwD5AQcAGQEHABkBBwAZAQcAmQEHAPkBBwAZAQcAGQEHABkBBwCZAQcA+QEHABkBBwAZAQcAGQEHAJkBBwD5AQcAGQEHABkBBwAZAYUAGwElANsBBwAZAQcAGQEHABkBhgAaASYA2gEHABkBBwAZAQcAGQGHABkBJwDZAQcAGQEHABkBBwAZAYcAGQEnANkBBwAZAQcAGQEHABkBhwAZAScA2QEHABkBBwAZAQcAGgGGABoBJgDZAQcAGQEHABkBBwAbAYUAGwElANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAQcAGQEHAFkBBwA5AQcAOQEHANkBBwAZAWUAGwEHABsBAwAbASUAGwEHANkBBwAZAWYAGgEHABoBBQAaASYAGgEHANkBBwAZAWcAGQEHABkBBwAZAScAGQEHANkBBwAZAWcAGQEHABkBBwAZAScAGQEHANkBBwAZAWcAGQEHABkBBwAZAScAGQEHANkBBwAaAWYAGQEHABkBBwAaASUAGgEHANkBBwAbAWUAGQEHABkBBwAbASMAGwEHANkBBwB5AQcAGQEHABkBBwBZAQcA2QEHAHkBBwAZAQcAGQEHAFkBBwDZAQcAeQEHABkBBwAZAQcAWQEHANkBBwB5AQcAGQEHABkBBwBZAQcA2QEHAHkBBwAZAQcAGQEHAFkBBwDZAQcAeQEHABkBBwAZAQcAWQEHANkBBwB5AQcAGQEHABkBBwBZAQcA2QEHAHkBBwAZAQcAGQEHAFkBBwDZAQcAeQEHABkBBwAZAQcAWQEHANkBBwB5AQcAGQEHABkBBwBZAQcA2QEHAHkBBwAZAQcAGQEHAFkBBwDZAQcAeQEHABkBBwAZAQcAWQEHANkBBwB5AQcAGQEHABkBBwBZAQcA2QEHAHkBBwAZAQcAGQEHAFkBBwDZAQcAeQEHABkBBwAZAQcAWQEHANkBBwB5AQcAGQEHABkBBwBZAQcA2QEHAHkBBwAZAQcAGQEHAFkBBwDZAQcAeQEHABkBBwAZAQcAWQEHANkBBwB5AQcAGQEHABkBBwBZAQcA2QEHAHkBBwAZAQcAGQEHAFkBBwDZAQcAeQEHABkBBwAZAQcAWQEHANkBBwB5AQcAGQEHABkBBwBZAQcA2QEHAHkBBwAZAQcAGQEHAFkBBwDZAQcAeQEHABkBBwAZAQcAWQEHANkBBwB5AQcAGQEHABkBBwBZAQcA2QEHABsBQwAbAQcAGQEHABkBJQAdAWMAmwEHABoBRQAaAQcAGQEHABkBJgAbAWUAmgEHABkBRwAZAQcAGQEHABkBJwAZAWcAmQEHABkBRwAZAQcAGQEHABkBJwAZAWcAmQEHABkBRwAZAQcAGQEHABkBJwAZAWcAmQEHABkBRgAbAQUAGgEHABoBJgAZAWcAmQEHABkBRQAdAQMAGwEHABsBJQAZAWcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwB5AQcAOQEHABkBBwBZAQcAmQEHABkBBwAbAWUAGwEDABsBBwAZAQcAGwEjABsBBwCZAQcAGQEHABoBZgAaAQUAGgEHABkBBwAaASUAGgEHAJkBBwAZAQcAGQFnABkBBwAZAQcAGQEHABkBJwAZAQcAmQEHABkBBwAZAWcAGQEHABkBBwAZAQcAGQEnABkBBwCZAQcAGQEHABkBZwAZAQcAGQEHABkBBwAZAScAGQEHAJkBBwAZAQcAGQFmABoBBwAZAQcAGQEHABoBJgAZAQcAmQEHABkBBwAZAWUAGwEHABkBBwAZAQcAGwElABkBBwCZAQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHAJkBBwAZAQcAGQEHAHkBBwAZAQcAGQEHADkBBwAZAQcAmQEHABkBBwAZAQcAeQEHABkBBwAZAQcAOQEHABkBBwCZAQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHAJkBBwAZAQcAGQEHAHkBBwAZAQcAGQEHADkBBwAZAQcAmQEHABkBBwAZAQcAeQEHABkBBwAZAQcAOQEHABkBBwCZAQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHAJkBBwAZAQcAGQEHAHkBBwAZAQcAGQEHADkBBwAZAQcAmQEHABkBBwAZAQcAeQEHABkBBwAZAQcAOQEHABkBBwCZAQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHAJkBBwAZAQcAGQEHAHkBBwAZAQcAGQEHADkBBwAZAQcAmQEHABkBBwAZAQcAeQEHABkBBwAZAQcAOQEHABkBBwCZAQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHAJkBBwAZAQcAGQEHAHkBBwAZAQcAGQEHADkBBwAZAQcAmQEHABkBBwAZAQcAeQEHABkBBwAZAQcAOQEHABkBBwCZAQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHAJkBBwAZAQcAGQEHAHkBBwAZAQcAGQEHADkBBwAZAQcAmQEHABkBBwAZAQcAeQEHABkBBwAZAQcAOQEHABkBBwCZAQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHAJkBBwAZAQcAGQEHAHkBBwAZAQcAGQEHADkBBwAZAQcAmQEHABkBBwAZAQcAeQEHABkBBwAZAQcAOQEHABkBBwCZAQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHAJkBBwAZAQcAGQEHAHkBBwAZAQcAGQEHADkBBwAZAQcAmQEHABkBBwAZAQcAeQEHABkBBwAZAQcAOQEHABkBBwCZAQcAGQEHABkBBwB5AQcAGQEHABkBBwA5AQcAGQEHAJkBBwAZAQcAGQEHABsBZQAZAWcAGQEHAJkBBwAZAQcAGQEHABoBZgAZAWcAGQEHAJkBBwAZAQcAGQEHABkBZwAZAWcAGQEHAJkBBwAZAQcAGQEHABkBZwAZAWcAGQEHAJkBBwAZAQcAGQEHABkBZwAZAWcAGQEHAJkBBwAZAQcAGgEFABoBZgAbAWUAGgEHAJkBBwAZAQcAGwEDABsBZQAdAWMAGwEHAJkBBwAZAQcAOQEHAPkBBwCZAQcAGQEHADkBBwD5AQcAmQEHABkBBwA5AQcA+QEHAJkBBwAZAQcAOQEHAPkBBwCZAQcAGQEHADkBBwD5AQcAmQEHABkBBwA5AQcA+QEHAJkBBwAZAQcAOQEHAPkBBwCZAQcAGQEHADkBBwD5AQcAmQEHABkBBwA5AQcA+QEHAJkBBwAZAQcAOQEHAPkBBwCZAQcAGQEHADkBBwD5AQcAmQEHABkBBwA5AQcA+QEHAJkBBwAZAQcAOQEHAPkBBwCZAQcAGQEHADkBBwD5AQcAmQEHABkBBwA5AQcA+QEHAJkBBwAZAQcAOQEHAPkBBwCZAQcAGQEHADkBBwD5AQcAmQEHABkBBwA5AQcA+QEHAJkBBwAZAQcAOQEHAPkBBwCZAQcAGQEHADkBBwD5AQcAmQEHABkBBwA5AQcA+QEHAJkBBwAZAQcAOQEHAPkBBwCZAQcAGQEHADkBBwD5AQcAmQEHABkBBwA5AQcA+QEHAJkBBwAZAQcAOQEHAPkBBwCZAQcAGQH/AUgAmQEHABkB/wFIAJkBBwAZAf8BSACZAQcAGQH/AUgAmQEHABkB/wFIAJkBBwAZAf8BRwCaAQcAGQH/AUYAmwEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8AvQ=="
+
+{card:West1}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wBaAQMAHQEDAP8A3QEFABsBBQD/ANsBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZASUA/wC8AQcAGQEmAP8AuwEHABkBJwD/ALoBBwAZAScA/wC6AQcAGQEnAP8AugEHABoBJQD/ALsBBwAbASMA/wC8AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcADAEDAP8A6wEHAAsBBQD/AOoBBwAKAQcA/wDpAQcACgEHAP8A6QEHAAoBBwD/AOkBBwALAQUA/wDqAQcADAEDAP8A6wEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHABsBIwD/ALwBBwAaASUA/wC7AQcAGQEnAP8AugEHABkBJwD/ALoBBwAZAScA/wC6AQcAGQEmAP8AuwEHABkBJQD/ALwBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/AL0="
+{widgets}
+button1:{"type":"button","size":[64,32],"pos":[32,96],"script":"West1.0","text":"North"}
+button2:{"type":"button","size":[64,32],"pos":[128,192],"script":"West1.1","text":"East"}
+button3:{"type":"button","size":[64,32],"pos":[96,288],"script":"West1.2","text":"Exit"}
+
+{script:West1.0}
+on click do
+  go["West2" "SlideDown"]
+end
+{end}
+
+{script:West1.1}
+on click do
+  go["West3" "SlideLeft"]
+end
+{end}
+
+{script:West1.2}
+on click do
+  go["HM West Entrance" "SlideUp"]
+end
+{end}
+
+{card:West2}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8AGgEjAP8A3QElAP8A2wEnAP8A2gEnAP8A2gEnAP8A2gEnAP8A2gEnAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAJAQMADQEHAP8A2gEHAAgBBQAMAQcA/wDaAQcABwEHAAsBBwD/ANoBBwAHAQcACwEHAP8A2gEHAAcBBwALAQcA/wDaAQcACAEFAAwBBwD/ANoBBwAJAQMADQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2wEFABsBBQD/AN0BAwAdAQMA/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A5A=="
+{widgets}
+field1:{"type":"field","size":[64,32],"pos":[32,64],"value":"Dead End!"}
+button1:{"type":"button","size":[64,32],"pos":[32,224],"script":"West2.0","text":"South"}
+
+{script:West2.0}
+on click do
+  go["West1" "SlideUp"]
+end
+{end}
+
+{card:West3}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/ANoBQwAdAQMA/wCdAUUAGwEFAP8AmwFHABkBBwD/AJoBRwAZAQcA/wCaAUcAGQEHAP8AmwFGABkBBwD/AJwBRQAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/AMsBAwAMAQcAGQEHAP8AygEFAAsBBwAZAQcA/wDJAQcACgEHABkBBwD/AMkBBwAKAQcAGQEHAP8AyQEHAAoBBwAZAQcA/wDKAQUACwEHABkBBwD/AMsBAwAMAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/AJwBIwAbAQcAGQEHAP8AmwElABoBBwAZAQcA/wCaAScAGQEHABkBBwD/AJoBJwAZAQcAGQEHAP8AmgEnABkBBwAZAQcA/wCbASUAGwEFABoBBwD/AJwBIwAdAQMAGwEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8AnAFlAP8AmwFmAP8AmgFnAP8AmgFnAP8AmgFnAP8AmwFlAP8AnQFjAP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AOM="
+{widgets}
+button1:{"type":"button","size":[64,32],"pos":[32,160],"script":"West3.0","text":"West"}
+button2:{"type":"button","size":[96,32],"pos":[0,256],"script":"West3.1","text":"SouthWest"}
+button3:{"type":"button","size":[64,32],"pos":[160,128],"script":"West3.2","text":"North"}
+
+{script:West3.0}
+on click do
+  go["West1" "SlideRight"]
+end
+{end}
+
+{script:West3.1}
+on click do
+  go["West4" "SlideUp"]
+end
+{end}
+
+{script:West3.2}
+on click do
+  go["West15" "SlideDown"]
+end
+{end}
+
+{card:West4}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A+gFDAP8AvQFFAP8AuwFHAP8AugFHAP8AugFHAP8AugFGAP8AuwFFAP8AvAEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHABsBQwD/AJwBBwAaAUUA/wCbAQcAGQFHAP8AmgEHABkBRwD/AJoBBwAZAUcA/wCaAQcAGQFGAP8AmwEHABkBRQD/AJwBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcACwEDAAsBBwD/ANoBBwAKAQUACgEHAP8A2gEHAAkBBwAJAQcA/wDaAQcACQEHAAkBBwD/ANoBBwAJAQcACQEHAP8A2gEHAAoBBQAKAQcA/wDaAQcACwEDAAsBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwAbASMA/wCcAQcAGQEHABoBJQD/AJsBBwAZAQcAGQEnAP8AmgEHABkBBwAZAScA/wCaAQcAGQEHABkBJwD/AJoBBwAaAQUAGgEmAP8AmwEHABsBAwAbASUA/wCcAQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugFHAP8AugFHAP8AugFHAP8AugFHAP8AugFHAP8AuwFFAP8AvQFDAP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8Aow=="
+{widgets}
+button1:{"type":"button","size":[64,32],"pos":[128,192],"script":"West4.0","text":"NorthEast"}
+button2:{"type":"button","size":[64,32],"pos":[160,288],"script":"West4.1","text":"East"}
+
+{script:West4.0}
+on click do
+  go["West3" "SlideDown"]
+end
+{end}
+
+{script:West4.1}
+on click do
+  go["West5" "SlideLeft"]
+end
+{end}
+
+{card:West5}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD6AUMA/wC9AUUA/wC7AUcA/wC6AUcA/wC6AUcA/wC6AUcA/wC6AUcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHABsBAwAbAQcA/wC6AQcAGgEFABoBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGgEFAP8AuwEHABkBBwAbAQMA/wC8AQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBJQD/ALwBBwAZASYA/wC7AQcAGQEnAP8AugEHABkBJwD/ALoBBwAZAScA/wC6AQcAGgEmAP8AugEHABsBJQD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwAKAQMALAEHAP8AugEHAAkBBQArAQcA/wC6AQcACAEHACoBBwD/ALoBBwAIAQcAKgEHAP8AugEHAAgBBwAqAQcA/wC6AQcACQEFACsBBwD/ALoBBwAKAQMALAEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AnAElABsBAwAbAQcA/wCbASYAGgEFABoBBwD/AJoBJwAZAQcAGQEHAP8AmgEnABkBBwAZAQcA/wCaAScAGQEHABkBBwD/AJsBJQAaAQcAGQEHAP8AnAEjABsBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8AnAFFABkBBwD/AJsBRgAZAQcA/wCaAUcAGQEHAP8AmgFHABkBBwD/AJoBRwAZAQcA/wCbAUUAGwEFAP8AnQFDAB0BAwD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8AYw=="
+{widgets}
+button1:{"type":"button","size":[64,32],"pos":[288,192],"script":"West5.0","text":"East"}
+button2:{"type":"button","size":[64,32],"pos":[256,288],"script":"West5.1","text":"South"}
+button3:{"type":"button","size":[64,32],"pos":[64,256],"script":"West5.2","text":"West"}
+
+{script:West5.0}
+on click do
+  go["West9" "SlideLeft"]
+end
+{end}
+
+{script:West5.1}
+on click do
+  go["West6" "SlideUp"]
+end
+{end}
+
+{script:West5.2}
+on click do
+  go["West4" "SlideRight"]
+end
+{end}
+
+{card:West6}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/ANsBAwAdAQMA/wDdAQUAGwEFAP8A2wEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8AvAElABkBJQD/AJ0BJgAZASYA/wCbAScAGQEnAP8AmgEnABkBJwD/AJoBJwAZAScA/wCbASUAGwElAP8AnQEjAB0BIwD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A3gEDAP8A/QEFAP8A+wEHAP8A+gEHAP8A+gEHAP8A+wEFAP8A/QEDAP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AOIBYwD/AJ0BZQD/AJsBZwD/AJoBZwD/AJoBZwD/AJsBZQD/AJ0BYwD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AAM="
+{widgets}
+button1:{"type":"button","size":[64,32],"pos":[224,192],"script":"West6.0","text":"North"}
+button2:{"type":"button","size":[64,32],"pos":[320,288],"script":"West6.1","text":"East"}
+button3:{"type":"button","size":[64,32],"pos":[96,288],"script":"West6.2","text":"West"}
+
+{script:West6.0}
+on click do
+  go["West5" "SlideDown"]
+end
+{end}
+
+{script:West6.1}
+on click do
+  go["West8" "SlideLeft"]
+end
+{end}
+
+{script:West6.2}
+on click do
+  go["West7" "SlideRight"]
+end
+{end}
+
+{card:West7}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8AuwFDAP8AvQFFAP8AuwFHAP8AugFHAP8AugFHAP8AugFGAP8AuwFFAP8AvAEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAAsBAwD/AOwBBwAKAQUA/wDrAQcACQEHAP8A6gEHAAkBBwD/AOoBBwAJAQcA/wDqAQcACgEFAP8A6wEHAAsBAwD/AOwBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBRQD/ALwBRgD/ALsBRwD/ALoBRwD/ALoBRwD/ALsBRQD/AL0BQwD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AGM="
+{widgets}
+button1:{"type":"button","size":[64,32],"pos":[224,288],"script":"West7.0","text":"East"}
+field1:{"type":"field","size":[64,32],"pos":[128,224],"value":"Dead End!"}
+
+{script:West7.0}
+on click do
+  go["West6" "SlideLeft"]
+end
+{end}
+
+{card:West8}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wDbAWMA/wCdAWUA/wCbAWcA/wCaAWcA/wCaAWcA/wCaAWcA/wCaAWcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHABsBIwAbAQcA/wCaAQcAGgElABoBBwD/AJoBBwAZAScAGQEHAP8AmgEHABkBJwAZAQcA/wCaAQcAGQEnABkBBwD/AJoBBwAaASYAGQEHAP8AmgEHABsBJQAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAJwEDAA8BBwAZAQcA/wCaAQcAJgEFAA4BBwAZAQcA/wCaAQcAJQEHAA0BBwAZAQcA/wCaAQcAJQEHAA0BBwAZAQcA/wCaAQcAJQEHAA0BBwAZAQcA/wCaAQcAJgEFAA4BBwAZAQcA/wCaAQcAJwEDAA8BBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAUcAGQEHAP8AmgFHABkBBwD/AJoBRwAZAQcA/wCaAUcAGQEHAP8AmgFHABkBBwD/AJsBRQAaAQcA/wCcAUMAGwEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8AnAFlAP8AmwFmAP8AmgFnAP8AmgFnAP8AmgFnAP8AmwFlAP8AnQFjAP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AKI="
+{widgets}
+button1:{"type":"button","size":[64,32],"pos":[192,288],"script":"West8.0","text":"West"}
+field1:{"type":"field","size":[64,32],"pos":[288,160],"value":"Dead End!"}
+
+{script:West8.0}
+on click do
+  go["West6" "SlideRight"]
+end
+{end}
+
+{card:West9}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/ABsBIwAdASMA/wCdASUAGwElAP8AmwEnABkBJwD/AJoBJwAZAScA/wCaAScAGQEnAP8AmwEmABoBJgD/AJwBJQAbASUA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AnAEDABsBJQAbAQcA/wCbAQUAGgEmABoBBwD/AJoBBwAZAScAGQEHAP8AmgEHABkBJwAZAQcA/wCaAQcAGQEnABkBBwD/AJoBBwAaASUAGgEHAP8AmgEHABsBIwAbAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAKwEDACsBBwD/AJoBBwAqAQUAKgEHAP8AmgEHACkBBwApAQcA/wCaAQcAKQEHACkBBwD/AJoBBwApAQcAKQEHAP8AmgEHACoBBQAqAQcA/wCaAQcAKwEDACsBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBJQAdASUA/wCaASYAGwEmAP8AmgEnABkBJwD/AJoBJwAZAScA/wCaAScAGQEnAP8AmwEmABkBJgD/AJ0BJQAZASUA/wC8AQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDbAQUAGwEFAP8A3QEDAB0BAwD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wCD"
+{widgets}
+button1:{"type":"button","size":[64,32],"pos":[256,96],"script":"West9.0","text":"North"}
+button2:{"type":"button","size":[64,32],"pos":[128,160],"script":"West9.1","text":"West"}
+button3:{"type":"button","size":[64,32],"pos":[256,288],"script":"West9.2","text":"South"}
+
+{script:West9.0}
+on click do
+  go["West11" "SlideDown"]
+end
+{end}
+
+{script:West9.1}
+on click do
+  go["West5" "SlideRight"]
+end
+{end}
+
+{script:West9.2}
+on click do
+  go["West10" "SlideUp"]
+end
+{end}
+
+{card:West10}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wC7AQMAHQEDAP8A3QEFABsBBQD/ANsBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAKAQMADAEHAP8A2gEHAAkBBQALAQcA/wDaAQcACAEHAAoBBwD/ANoBBwAIAQcACgEHAP8A2gEHAAgBBwAKAQcA/wDaAQcACQEFAAsBBwD/ANoBBwAKAQMADAEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBJwD/ANoBJwD/ANoBJwD/ANoBJwD/ANoBJwD/ANsBJQD/AN0BIwD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8AQw=="
+{widgets}
+button1:{"type":"button","size":[64,32],"pos":[256,160],"script":"West10.0","text":"North"}
+
+{script:West10.0}
+on click do
+  go["West9" "SlideDown"]
+end
+{end}
+
+{card:West11}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wA6AQMAHQEDAP8A3QEFABsBBQD/ANsBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAUUA/wCcAQcAGQFGAP8AmwEHABkBRwD/AJoBBwAZAUcA/wCaAQcAGQFHAP8AmgEHABoBRgD/AJoBBwAbAUUA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgElAB0BJQD/AJoBJgAbASYA/wCaAScAGQEnAP8AmgEnABkBJwD/AJoBJwAZAScA/wCbASUAGwEmAP8AnAEjAB0BJQD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/AMsBAwAsAQcA/wDKAQUAKwEHAP8AyQEHACoBBwD/AMkBBwAqAQcA/wDJAQcAKgEHAP8AygEFACsBBwD/AMsBAwAsAQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wCcAUMAGwEHAP8AmwFFABoBBwD/AJoBRwAZAQcA/wCaAUcAGQEHAP8AmgFHABkBBwD/AJsBRQAbAQUA/wCdAUMAHQEDAP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8ARA=="
+{widgets}
+button1:{"type":"button","size":[64,32],"pos":[224,32],"script":"West11.0","text":"North"}
+button2:{"type":"button","size":[64,32],"pos":[96,128],"script":"West11.1","text":"West"}
+button3:{"type":"button","size":[64,32],"pos":[256,192],"script":"West11.2","text":"South"}
+
+{script:West11.0}
+on click do
+  go["West12" "SlideDown"]
+end
+{end}
+
+{script:West11.1}
+on click do
+  go["West12" "SlideRight"]
+end
+{end}
+
+{script:West11.2}
+on click do
+  go["West9" "SlideUp"]
+end
+{end}
+
+{card:West12}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AJkBgwD/AH0BhQD/AHsBhwD/AHoBhwD/AHoBhwD/AHsBhgD/AHwBhQD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/AKkBAwBOAQcA/wCoAQUATQEHAP8ApwEHAEwBBwD/AKcBBwBMAQcA/wCnAQcATAEHAP8AqAEFAE0BBwD/AKkBAwBOAQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wB8ASMAHQEDAB0BAwAbAQcA/wB7ASUAGwEFABsBBQAaAQcA/wB6AScAGQEHABkBBwAZAQcA/wB6AScAGQEHABkBBwAZAQcA/wB6AScAGQEHABkBBwAZAQcA/wB7ASYAGQEHABkBBwAZAQcA/wB8ASUAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAZAQcA/wCaAQcAGQEHABkBBwAaAQUA/wCbAQcAGQEHABkBBwAbAQMA/wCcAQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAScA/wC6AQcAGQEnAP8AugEHABkBJwD/ALoBBwAZAScA/wC6AQcAGQEnAP8AugEHABoBJQD/ALsBBwAbASMA/wC8AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AUUA/wC8AUYA/wC7AUcA/wC6AUcA/wC6AUcA/wC7AUUA/wC9AUMA/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wCk"
+{widgets}
+button1:{"type":"button","size":[64,32],"pos":[192,160],"script":"West12.0","text":"East"}
+button2:{"type":"button","size":[64,32],"pos":[224,96],"script":"West12.1","text":"South"}
+button3:{"type":"button","size":[64,32],"pos":[0,32],"script":"West12.2","text":"West"}
+
+{script:West12.0}
+on click do
+  go["West11" "SlideLeft"]
+end
+{end}
+
+{script:West12.1}
+on click do
+  go["West11" "SlideUp"]
+end
+{end}
+
+{script:West12.2}
+on click do
+  go["West13" "SlideRight"]
+end
+{end}
+
+{card:West13}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AFkBYwD/AJ0BZQD/AJsBZwD/AJoBZwD/AJoBZwD/AJoBZgD/AJsBZQD/AJwBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwAbAUMA/wCcAQcAGgFFAP8AmwEHABkBRwD/AJoBBwAZAUcA/wCaAQcAGQFHAP8AmgEHABoBRgD/AJoBBwAbAUUA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcADAEDAEoBBwD/AJoBBwALAQUASQEHAP8AmgEHAAoBBwBIAQcA/wCaAQcACgEHAEgBBwD/AJoBBwAKAQcASAEHAP8AmgEHAAsBBQBJAQcA/wCaAQcADAEDAEoBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwAbASMAGwEHAP8AmgEHABoBJQAaAQcA/wCaAQcAGQEnABkBBwD/AJoBBwAZAScAGQEHAP8AmgEHABkBJwAZAQcA/wCaAQcAGgEmABkBBwD/AJoBBwAbASUAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaASUAGwEHABkBBwD/AJoBJgAaAQcAGQEHAP8AmgEnABkBBwAZAQcA/wCaAScAGQEHABkBBwD/AJoBJwAZAQcAGQEHAP8AmwEmABkBBwAZAQcA/wCcASUAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALsBBQAbAQUAGwEFAP8AvQEDAB0BAwAdAQMA/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wDk"
+{widgets}
+button1:{"type":"button","size":[64,32],"pos":[0,160],"script":"West13.0","text":"South"}
+button2:{"type":"button","size":[64,32],"pos":[128,160],"script":"West13.1","text":"SouthEast"}
+button3:{"type":"button","size":[64,32],"pos":[160,32],"script":"West13.2","text":"East"}
+
+{script:West13.0}
+on click do
+  go["West14" "SlideUp"]
+end
+{end}
+
+{script:West13.1}
+on click do
+  go["West15" "SlideUp"]
+end
+{end}
+
+{script:West13.2}
+on click do
+  go["West12" "SlideLeft"]
+end
+{end}
+
+{card:West14}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wDZAQMAHQEjAP8AvQEFABsBJQD/ALsBBwAZAScA/wC6AQcAGQEnAP8AugEHABkBJwD/ALoBBwAaASYA/wC6AQcAGwElAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBJQAbAQcA/wC6ASYAGgEHAP8AugEnABkBBwD/ALoBJwAZAQcA/wC6AScAGQEHAP8AuwEmABkBBwD/ALwBJQAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHAAoBAwAMAQcA/wDaAQcACQEFAAsBBwD/ANoBBwAIAQcACgEHAP8A2gEHAAgBBwAKAQcA/wDaAQcACAEHAAoBBwD/ANoBBwAJAQUACwEHAP8A2gEHAAoBAwAMAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEnAP8A2gEnAP8A2gEnAP8A2gEnAP8A2gEnAP8A2wElAP8A3QEjAP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AMQ="
+{widgets}
+button1:{"type":"button","size":[64,32],"pos":[32,32],"script":"West14.0","text":"North"}
+field1:{"type":"field","size":[64,32],"pos":[128,160],"value":"Dead End!"}
+
+{script:West14.0}
+on click do
+  go["West13" "SlideDown"]
+end
+{end}
+
+{card:West15}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8AuQFDAP8AvQFFAP8AuwFHAP8AugFHAP8AugFHAP8AuwFGAP8AvAFFAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8AvAEjABsBBwD/ALsBJQAaAQcA/wC6AScAGQEHAP8AugEnABkBBwD/ALoBJwAZAQcA/wC7ASYAGQEHAP8AvAElABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAUUA/wCcAQcAGQFGAP8AmwEHABkBRwD/AJoBBwAZAUcA/wCaAQcAGQFHAP8AmgEHABoBRgD/AJoBBwAbAUUA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcADQEDAEkBBwD/AJoBBwAMAQUASAEHAP8AmgEHAAsBBwBHAQcA/wCaAQcACwEHAEcBBwD/AJoBBwALAQcARwEHAP8AmgEHAAwBBQBIAQcA/wCaAQcADQEDAEkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBRQAbAQcA/wCaAUYAGgEHAP8AmgFHABkBBwD/AJoBRwAZAQcA/wCaAUcAGQEHAP8AmwFGABkBBwD/AJwBRQAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDbAQUAGwEFAP8A3QEDAB0BAwD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8AJA=="
+{widgets}
+button1:{"type":"button","size":[64,32],"pos":[0,96],"script":"West12.2","text":"West"}
+button2:{"type":"button","size":[64,32],"pos":[160,256],"script":"West15.0","text":"South"}
+
+{script:West15.0}
+on click do
+  go["West3" "SlideUp"]
+end
+{end}
+
+{card:Maze West Side}
+{widgets}
+field1:{"type":"field","size":[192,96],"pos":[160,96],"value":"Location: Maze East Side\nEnd of Maze!"}
+
+{card:card1}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8AGgEDAB0B4wD8AQUAGwHlAPoBBwAZAecA+QEHABkB5wD5AQcAGQHnAPkBBwAZAecA+QEHABkB5wD5AQcAGQEHANkBBwD5AQcAGQEHANkBBwD5AQcAGQEHANkBBwD5AQcAGQEHANkBBwD5AQcAGQEHANkBBwD5AQcAGQEHANkBBwD5AQcAGQEHANkBBwD5AQcAGQEHANkBBwD5AQcAGQEHANkBBwD5AQcAGQEHANkBBwD5AQcAGQEHANkBBwD5AQcAGQEHANkBBwD5AQcAGQEHANkBBwD5AQcAGQEHANkBBwD5AQcAGQEHANkBBwD5AQcAGQEHANkBBwD5AQcAGQEHANkBBwD5AQcAGQEHANkBBwD5AQcAGQEHANkBBwD5AQcAGQEHANkBBwD5AQcAGQEHANkBBwD5AQcAGQEHANkBBwD5AQcAGQEHANkBBwD5AQcAGQEHANkBBwD5AQcAGQEHANkBBwD5AQcAGQFFAB0BQwAdAQMAGwEHAPkBBwAZAUYAGwFFABsBBQAaAQcA+QEHABkBRwAZAUcAGQEHABkBBwD5AQcAGQFHABkBRwAZAQcAGQEHAPkBBwAZAUcAGQFHABkBBwAZAQcA+QEHABoBRQAbAUYAGQEHABkBBwD5AQcAGwFDAB0BRQAZAQcAGQEHAPkBBwC5AQcAGQEHABkBBwD5AQcAuQEHABkBBwAZAQcA+QEHALkBBwAZAQcAGQEHAPkBBwC5AQcAGQEHABkBBwD5AQcAuQEHABkBBwAZAQcA+QEHALkBBwAZAQcAGQEHAPkBBwC5AQcAGQEHABkBBwD5AQcAuQEHABkBBwAZAQcA+QEHALkBBwAZAQcAGQEHAPkBBwC5AQcAGQEHABkBBwD5AQcAuQEHABkBBwAZAQcA+QEHALkBBwAZAQcAGQEHAPkBBwC5AQcAGQEHABkBBwD5AQcAuQEHABkBBwAZAQcA+QEHALkBBwAZAQcAGQEHAPkBBwC5AQcAGQEHABkBBwD5AQcAuQEHABkBBwAZAQcA+QEHALkBBwAZAQcAGQEHAPkBBwC5AQcAGQEHABkBBwD5AQcAuQEHABkBBwAZAQcA+QEHALkBBwAZAQcAGQEHAPkBBwC5AQcAGQEHABkBBwD5AQcAuQEHABkBBwAZAQcA+QEHALkBBwAZAQcAGQEHAPkBBwC5AQcAGQEHABkBBwD5AaUAGwEHABkBBwAZAQcA+QGmABoBBwAZAQcAGQEHAPkBpwAZAQcAGQEHABkBBwD5AacAGQEHABkBBwAZAQcA+QGnABkBBwAZAQcAGQEHAPoBpgAZAQcAGQEHABkBBwD7AaUAGQEHABkBBwAZAQcA/wA6AQcAWQEHABkBBwAZAQcAGQEHAP8AOgEHAFkBBwAZAQcAGQEHABkBBwD/ADoBBwBZAQcAGQEHABkBBwAZAQcA/wA6AQcAWQEHABkBBwAZAQcAGQEHAP8AOgEHAFkBBwAZAQcAGQEHABkBBwD/ADoBBwBZAQcAGQEHABkBBwAZAQcA/wA6AQcAWQEHABkBBwAZAQcAGQEHAP8AOgEHAFkBBwAZAQcAGQEHABkBBwD/ADoBBwBZAQcAGQEHABkBBwAZAQcA/wA6AQcAWQEHABkBBwAZAQcAGQEHAP8AOgEHAFkBBwAZAQcAGQEHABkBBwD/ADoBBwBZAQcAGQEHABkBBwAZAQcA/wA6AQcAWQEHABkBBwAZAQcAGQEHAP8AOgEHAFkBBwAZAQcAGQEHABkBBwD/ADoBBwBZAQcAGQEHABkBBwAZAQcA/wA6AQcAWQEHABkBBwAZAQcAGQEHAP8AOgEHAFkBBwAZAQcAGQEHABkBBwD/ADoBBwBZAQcAGQEHABkBBwAZAQcA/wA6AQcAWQEHABkBBwAZAQcAGQEHAP8AOgEHAFkBBwAZAQcAGQEHABkBBwD/ADoBBwBZAQcAGQEHABkBBwAZAQcA/wA6AQcAWQEHABkBBwAZAQcAGQEHAP8AOgEHAFkBBwAZAQcAGQEHABkBBwD/ADoBBwBZAQcAGQEHABkBBwAZAQcA/wA6AQcAWQEHABkBBwAZAQcAGQEHAP8AOgEHABsBIwAbAQcAGQEHABkBBwAZAQcA/wA6AQcAGgElABoBBwAZAQcAGQEHABkBBwD/ADoBBwAZAScAGQEHABkBBwAZAQcAGQEHAP8AOgEHABkBJwAZAQcAGQEHABkBBwAZAQcA/wA6AQcAGQEnABkBBwAZAQcAGQEHABkBBwD/ADoBBwAaASYAGQEHABkBBwAZAQcAGQEHAP8AOgEHABsBJQAZAQcAGQEHABkBBwAZAQcA/wA6AQcAOQEHABkBBwAZAQcAGQEHABkBBwD/ADoBBwA5AQcAGQEHABkBBwAZAQcAGQEHAP8AOgEHADkBBwAZAQcAGQEHABkBBwAZAQcA/wA6AQcAOQEHABkBBwAZAQcAGQEHABkBBwD/ADoBBwA5AQcAGQEHABkBBwAZAQcAGQEHAP8AOgEHADkBBwAZAQcAGQEHABkBBwAZAQcA/wA6AQcAOQEHABkBBwAZAQcAGQEHABkBBwD/ADoBBwA5AQcAGQEHABkBBwAZAQcAGQEHAP8AOgEHADkBBwAZAQcAGQEHABkBBwAZAQcA/wA6AQcAOQEHABkBBwAZAQcAGQEHABkBBwD/ADoBBwA5AQcAGQEHABkBBwAZAQcAGQEHAP8AOgEHADkBBwAZAQcAGQEHABkBBwAZAQcA/wA6AQcAOQEHABkBBwAZAQcAGQEHABkBBwD/ADoBBwA5AQcAGQEHABkBBwAZAQcAGQEHAP8AOgEHADkBBwAZAQcAGQEHABkBBwAZAQcA/wA6AQcAOQEHABkBBwAZAQcAGQEHABkBBwD/ADoBBwA5AQcAGQEHABkBBwAZAQcAGQEHAP8AOgEHADkBBwAZAQcAGQEHABkBBwAZAQcA/wA6AQcAOQEHABkBBwAZAQcAGQEHABkBBwD/ADoBBwA5AQcAGQEHABkBBwAZAQcAGQEHAP8AOgEHADkBBwAZAQcAGQEHABkBBwAZAQcA/wA6AQcAOQEHABkBBwAZAQcAGQEHABkBBwD/ADoBBwA5AQcAGQEHABkBBwAZAQcAGQEHAP8AOgEHADkBBwAZAQcAGQEHABkBBwAZAQcA/wA6AQcAOQEHABkBBwAZAQcAGQEHABkBBwD/ADoBJQAbAQcAGQFHABkBBwD/ADoBJgAaAQcAGQFHABkBBwD/ADoBJwAZAQcAGQFHABkBBwD/ADoBJwAZAQcAGQFHABkBBwD/ADoBJwAZAQcAGQFHABkBBwD/ADsBJgAZAQcAGgFFABoBBwD/ADwBJQAZAQcAGwFDABsBBwD/AFoBBwAZAQcAeQEHAP8AWgEHABkBBwB5AQcA/wBaAQcAGQEHAHkBBwD/AFoBBwAZAQcAeQEHAP8AWgEHABkBBwB5AQcA/wBaAQcAGQEHAHkBBwD/AFoBBwAZAQcAeQEHAP8AWgEHABkBBwB5AQcA/wBaAQcAGQEHAHkBBwD/AFoBBwAZAQcAeQEHAP8AWgEHABkBBwB5AQcA/wBaAQcAGQEHAHkBBwD/AFoBBwAZAQcAeQEHAP8AWgEHABkBBwB5AQcA/wBaAQcAGQEHAHkBBwD/AFoBBwAZAQcAeQEHAP8AWgEHABkBBwB5AQcA/wBaAQcAGQEHAHkBBwD/AFoBBwAZAQcAeQEHAP8AWgEHABkBBwB5AQcA/wBaAQcAGQEHAHkBBwD/AFoBBwAZAQcAeQEHAP8AWgEHABkBBwB5AQcA/wBaAQcAGQEHAHkBBwD/AFoBBwAZAQcAeQEHAP8AWgEHABkBhwD/AFoBBwAZAYcA/wBaAQcAGQGHAP8AWgEHABkBhwD/AFoBBwAZAYcA/wBaAQcAGgGGAP8AWgEHABsBhQD/AFoBBwBZAQcAOQEHAP8AWgEHAFkBBwA5AQcA/wBaAQcAWQEHADkBBwD/AFoBBwBZAQcAOQEHAP8AWgEHAFkBBwA5AQcA/wBaAQcAWQEHADkBBwD/AFoBBwBZAQcAOQEHAP8AWgEHAFkBBwA5AQcA/wBaAQcAWQEHADkBBwD/AFoBBwBZAQcAOQEHAP8AWgEHAFkBBwA5AQcA/wBaAQcAWQEHADkBBwD/AFoBBwBZAQcAOQEHAP8AWgEHAFkBBwA5AQcA/wBaAQcAWQEHADkBBwD/AFoBBwBZAQcAOQEHAP8AWgEHAFkBBwA5AQcA/wBaAQcAWQEHADkBBwD/AFoBBwBZAQcAOQEHAP8AWgEHAFkBBwA5AQcA/wBaAQcAWQEHADkBBwD/AFoBBwBZAQcAOQEHAP8AWgEHAFkBBwA5AQcA/wBaAQcAWQEHADkBBwD/AFoBBwBZAQcAOQEHAP8AWgFFABsBBwAbAQMAGwEHAP8AWgFGABoBBwAaAQUAGgEHAP8AWgFHABkBBwAZAQcAGQEHAP8AWgFHABkBBwAZAQcAGQEHAP8AWgFHABkBBwAZAQcAGQEHAP8AWwFGABkBBwAZAQcAGQEHAP8AXAFFABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABkBBwAZAQcAGQEHAP8AmgEHABoBBQAaAQcAGQEHAP8AmgEHABsBAwAbAQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAUcAGQEHAP8AmgFHABkBBwD/AJoBRwAZAQcA/wCaAUcAGQEHAP8AmgFHABkBBwD/AJoBRgAaAQcA/wCaAUUAGwEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBRQAbAQcA/wCaAUYAGgEHAP8AmgFHABkBBwD/AJoBRwAZAQcA/wCaAUcAGQEHAP8AmwFGABkBBwD/AJwBRQAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcAHA=="
+
+{card:East1}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wA8ASMA/wDdASUA/wDbAScA/wDaAScA/wDaAScA/wDbASYA/wDcASUA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wDcAQMAGwEHAP8A2wEFABoBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8AnAFFABkBBwD/AJsBRgAZAQcA/wCaAUcAGQEHAP8AmgFHABkBBwD/AJoBRwAZAQcA/wCaAUYAGgEHAP8AmgFFABsBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcASgEDAAwBBwD/AJoBBwBJAQUACwEHAP8AmgEHAEgBBwAKAQcA/wCaAQcASAEHAAoBBwD/AJoBBwBIAQcACgEHAP8AmgEHAEkBBQALAQcA/wCaAQcASgEDAAwBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgFFABsBBwD/AJoBRgAaAQcA/wCaAUcAGQEHAP8AmgFHABkBBwD/AJoBRwAZAQcA/wCbAUYAGQEHAP8AnAFFABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwAc"
+{widgets}
+button1:{"type":"button","size":[64,32],"pos":[288,288],"script":"East1.0","text":"Exit"}
+button2:{"type":"button","size":[64,32],"pos":[352,192],"script":"East1.1","text":"West"}
+
+{script:East1.0}
+on click do
+  go["HM East Entrance" "SlideUp"]
+end
+{end}
+
+{script:East1.1}
+on click do
+  go["East2" "SlideRight"]
+end
+{end}
+
+{card:East2}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AHsBAwAdAQMA/wDdAQUAGwEFAP8A2wEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBZQD/AHwBBwAZAWYA/wB7AQcAGQFnAP8AegEHABkBZwD/AHoBBwAZAWcA/wB6AQcAGgFlAP8AewEHABsBYwD/AHwBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAUUAGwEHABsBAwD/AHwBRgAaAQcAGgEFAP8AewFHABkBBwAZAQcA/wB6AUcAGQEHABkBBwD/AHoBRwAZAQcAGQEHAP8AewFGABkBBwAZAQcA/wB8AUUAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAaAQUAGgEHAP8AugEHABsBAwAbAQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwANAQMAKQEHAP8AugEHAAwBBQAoAQcA/wC6AQcACwEHACcBBwD/ALoBBwALAQcAJwEHAP8AugEHAAsBBwAnAQcA/wC6AQcADAEFACgBBwD/ALoBBwANAQMAKQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBBwA5AQcA/wC6AQcAOQEHAP8AugEHADkBBwD/ALoBRwD/ALoBRwD/ALoBRwD/ALoBRwD/ALoBRwD/ALsBRQD/AL0BQwD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AKI="
+{widgets}
+button1:{"type":"button","size":[64,32],"pos":[256,128],"script":"East2.0","text":"North"}
+button2:{"type":"button","size":[64,32],"pos":[448,160],"script":"East2.1","text":"East"}
+
+{script:East2.0}
+on click do
+  go["East3" "SlideDown"]
+end
+{end}
+
+{script:East2.1}
+on click do
+  go["East1" "SlideLeft"]
+end
+{end}
+
+{card:East3}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/ANoBYwD/AJ0BZQD/AJsBZwD/AJoBZwD/AJoBZwD/AJoBZwD/AJoBZwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAC0BAwApAQcA/wCaAQcALAEFACgBBwD/AJoBBwArAQcAJwEHAP8AmgEHACsBBwAnAQcA/wCaAQcAKwEHACcBBwD/AJoBBwAsAQUAKAEHAP8AmgEHAC0BAwApAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHAFkBBwD/AJoBBwBZAQcA/wCaAQcAWQEHAP8AmgEHABsBIwAbAQcA/wCaAQcAGgElABoBBwD/AJoBBwAZAScAGQEHAP8AmgEHABkBJwAZAQcA/wCaAQcAGQEnABkBBwD/AJoBBwAaASYAGQEHAP8AmgEHABsBJQAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBBwA5AQcAGQEHAP8AmgEHADkBBwAZAQcA/wCaAQcAOQEHABkBBwD/AJoBJQAbAQcAGQElAP8AfAEmABoBBwAZASYA/wB7AScAGQEHABkBJwD/AHoBJwAZAQcAGQEnAP8AegEnABkBBwAZAScA/wB7ASYAGQEHABoBJQD/AH0BJQAZAQcAGwEjAP8AnAEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAUUA/wCcAQcAGQFGAP8AmwEHABkBRwD/AJoBBwAZAUcA/wCaAQcAGQFHAP8AmwEFABsBRQD/AJ0BAwAdAUMA/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AIM="
+{widgets}
+button1:{"type":"button","size":[64,32],"pos":[256,192],"script":"East3.0","text":"South"}
+button2:{"type":"button","size":[64,32],"pos":[416,128],"script":"East3.1","text":"East"}
+
+{script:East3.0}
+on click do
+  go["East2" "SlideUp"]
+end
+{end}
+
+{script:East3.1}
+on click do
+  go["East4" "SlideLeft"]
+end
+{end}
+
+{card:East4}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8AugFjAP8AnQFlAP8AmwFnAP8AmgFnAP8AmgFnAP8AmwFmAP8AnAFlAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8AzAEDACsBBwD/AMsBBQAqAQcA/wDKAQcAKQEHAP8AygEHACkBBwD/AMoBBwApAQcA/wDLAQUAKgEHAP8AzAEDACsBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/AJwBIwAdAQMAGwEHAP8AmwElABsBBQAaAQcA/wCaAScAGQEHABkBBwD/AJoBJwAZAQcAGQEHAP8AmgEnABkBBwAZAQcA/wCbASYAGQEHABkBBwD/AJwBJQAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AugEHABkBBwAZAQcA/wC6AQcAGQEHABkBBwD/ALoBBwAZAQcAGQEHAP8AuwEFABoBBwAZAQcA/wC8AQMAGwEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/AJwBRQAZAQcA/wCbAUYAGQEHAP8AmgFHABkBBwD/AJoBRwAZAQcA/wCaAUcAGQEHAP8AmwFFABoBBwD/AJwBQwAbAQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wCcAWUA/wCbAWYA/wCaAWcA/wCaAWcA/wCaAWcA/wCbAWUA/wCdAWMA/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AEM="
+{widgets}
+button1:{"type":"button","size":[64,32],"pos":[288,32],"script":"East4.0","text":"West"}
+button2:{"type":"button","size":[64,32],"pos":[352,96],"script":"East4.1","text":"South"}
+button3:{"type":"button","size":[96,32],"pos":[256,160],"script":"East4.2","text":"SouthWest"}
+
+{script:East4.0}
+on click do
+  go["East6" "SlideRight"]
+end
+{end}
+
+{script:East4.1}
+on click do
+  go["East5" "SlideUp"]
+end
+{end}
+
+{script:East4.2}
+on click do
+  go["East3" "SlideUp"]
+end
+{end}
+
+{card:East5}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/ABsBAwAdAQMA/wDdAQUAGwEFAP8A2wEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcACgEDAAwBBwD/ANoBBwAJAQUACwEHAP8A2gEHAAgBBwAKAQcA/wDaAQcACAEHAAoBBwD/ANoBBwAIAQcACgEHAP8A2gEHAAkBBQALAQcA/wDaAQcACgEDAAwBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAScA/wDaAScA/wDaAScA/wDaAScA/wDaAScA/wDbASUA/wDdASMA/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8Aow=="
+{widgets}
+button1:{"type":"button","size":[64,32],"pos":[352,32],"script":"East5.0","text":"North"}
+field1:{"type":"field","size":[64,32],"pos":[384,192],"value":"Dead End!"}
+
+{script:East5.0}
+on click do
+  go["East4" "SlideDown"]
+end
+{end}
+
+{card:East6}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8AOgGjAP8AXQGlAP8AWwGnAP8AWgGnAP8AWgGnAP8AWgGmAP8AWwGlAP8AXAEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAEsBAwD/AKwBBwBKAQUA/wCrAQcASQEHAP8AqgEHAEkBBwD/AKoBBwBJAQcA/wCqAQcASgEFAP8AqwEHAEsBAwD/AKwBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBRQAdAUMA/wBcAUYAGwFFAP8AWwFHABkBRwD/AFoBRwAZAUcA/wBaAUcAGQFHAP8AWwFFABsBRQD/AF0BQwAdAUMA/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8AsAFjAP8AnQFlAP8AmwFnAP8AmgFnAP8AmgFnAP8AmwFlAP8AnQFjAP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AGQ="
+{widgets}
+button1:{"type":"button","size":[64,32],"pos":[224,96],"script":"East6.0","text":"West"}
+button2:{"type":"button","size":[64,32],"pos":[448,32],"script":"East3.1","text":"East"}
+button3:{"type":"button","size":[96,32],"pos":[384,96],"script":"East6.1","text":"SouthEast"}
+
+{script:East6.0}
+on click do
+  go["East8" "SlideRight"]
+end
+{end}
+
+{script:East6.1}
+on click do
+  go["East7" "SlideLeft"]
+end
+{end}
+
+{card:East7}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wDaAUMA/wC9AUUA/wC7AUcA/wC6AUcA/wC6AUcA/wC7AUYA/wC8AUUA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wD6AQcA/wC8ASMAGwEHAP8AuwElABoBBwD/ALoBJwAZAQcA/wC6AScAGQEHAP8AugEnABkBBwD/ALsBJgAZAQcA/wC8ASUAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHAAoBAwAMAQcA/wDaAQcACQEFAAsBBwD/ANoBBwAIAQcACgEHAP8A2gEHAAgBBwAKAQcA/wDaAQcACAEHAAoBBwD/ANoBBwAJAQUACwEHAP8A2gEHAAoBAwAMAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBJwD/ANoBJwD/ANoBJwD/ANoBJwD/ANoBJwD/ANsBJQD/AN0BIwD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wDD"
+{widgets}
+button1:{"type":"button","size":[64,32],"pos":[256,64],"script":"East4.0","text":"West"}
+field1:{"type":"field","size":[64,32],"pos":[384,192],"value":"Dead End!"}
+
+{card:East8}
+image:"%%IMG2AgABVgD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8AGgEDAB0BAwD/AN0BBQAbAQUA/wDbAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQEHAP8A2gEHABkBBwD/ANoBBwAZAQcA/wDaAQcAGQElAP8AvAEHABkBJgD/ALsBBwAZAScA/wC6AQcAGQEnAP8AugEHABkBJwD/ALoBBwAaASUA/wC7AQcAGwEjAP8AvAEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAP8A+gEHAA0BAwD/AOoBBwAMAQUA/wDpAQcACwEHAP8A6AEHAAsBBwD/AOgBBwALAQcA/wDoAQcADAEFAP8A6QEHAA0BAwD/AOoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBBwD/APoBRQD/ALwBRgD/ALsBRwD/ALoBRwD/ALoBRwD/ALsBRQD/AL0BQwD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wDE"
+{widgets}
+button1:{"type":"button","size":[64,32],"pos":[320,64],"script":"East8.0","text":"East"}
+button2:{"type":"button","size":[64,32],"pos":[128,32],"script":"East8.1","text":"Exit"}
+
+{script:East8.0}
+on click do
+  go["East6" "SlideLeft"]
+end
+{end}
+
+{script:East8.1}
+on click do
+  go["Escape" "SlideDown"]
+end
+{end}
+
+{card:Escape}
+image:"%%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/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/APg="
+{widgets}
+button1:{"type":"button","size":[192,64],"pos":[160,224],"script":"Escape.0","text":"Replay?"}
+
+{script:Escape.0}
+on click do
+  go["First" "BoxIn"]
+end
+{end}
+
